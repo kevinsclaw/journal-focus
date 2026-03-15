@@ -211,6 +211,114 @@ python map_cn_jel.py
 
 ---
 
+## 辅助脚本（早期版本）
+
+以下脚本是早期开发版本，部分功能已整合到上述主要脚本中。
+
+### paper_tagger.py
+
+**基础论文标签提取器** - 从 PDF 提取关键词并分配 JEL 代码。
+
+```bash
+python paper_tagger.py paper.pdf
+python paper_tagger.py paper.pdf --output result.json
+python paper_tagger.py paper.pdf --llm  # 使用 LLM 增强
+```
+
+**功能**：
+- 提取标题、摘要、关键词
+- 基于规则匹配 JEL 代码
+- 支持 LLM 增强模式
+
+---
+
+### paper_tagger_cn.py
+
+**中文论文标签提取器** - 针对中文学术论文优化。
+
+```bash
+python paper_tagger_cn.py paper.pdf --json
+python paper_tagger_cn.py paper.pdf --json -o result.json
+```
+
+**功能**：
+- 提取中文标题、作者、关键词
+- 识别学科分类（CSSCI）
+- 提取研究方法和研究领域
+
+---
+
+### paper_tagger_llm.py
+
+**LLM 增强版标签提取器** - 使用大语言模型提高准确性。
+
+```bash
+# 使用 OpenAI API
+export OPENAI_API_KEY=sk-xxx
+python paper_tagger_llm.py paper.pdf
+
+# 使用本地 Ollama
+python paper_tagger_llm.py paper.pdf --provider ollama --model qwen2.5
+```
+
+**功能**：
+- 使用 LLM 推断行业领域和研究方法
+- 支持 OpenAI API 和本地 Ollama
+- 比规则匹配更准确
+
+---
+
+### paper_stats.py
+
+**论文统计脚本** - 基于 JSON 分析结果生成统计直方图。
+
+```bash
+python paper_stats.py /path/to/pdfs/
+python paper_stats.py --json-dir /path/to/json/
+python paper_stats.py /path/to/pdfs/ --analyze  # 先分析再统计
+```
+
+**功能**：
+- 读取 `analysis/*.json` 文件
+- 生成 JEL、行业、方法的频率直方图
+- 输出统计报告
+
+---
+
+### paper_summary.py
+
+**论文汇总脚本** - 基于 JSON 结果生成汇总表格。
+
+```bash
+python paper_summary.py --json-dir /path/to/json/
+python paper_summary.py /path/to/pdfs/
+python paper_summary.py /path/to/pdfs/ --analyze
+```
+
+**生成文件**：
+- `full_summary.md` - 完整表格（标题、JEL、行业、方法）
+- `jel_summary_table.md` - JEL 分类汇总
+- `keywords_summary.md` - 关键词汇总
+
+---
+
+### paper_viz.py
+
+**论文可视化脚本** - 生成直方图和热力图。
+
+```bash
+python paper_viz.py /path/to/pdfs/
+python paper_viz.py --json-dir /path/to/json/
+```
+
+**功能**：
+- 读取 JSON 分析结果
+- 生成 JEL 分布直方图
+- 生成行业/方法热力图
+- 支持中文字体
+
+---
+
 ## 目录结构
 
 ```
