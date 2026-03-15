@@ -1,0 +1,73 @@
+{
+  "title": "Lost in translation: Dialect distance, social assimilation and",
+  "authors": [
+    "Wen Liu"
+  ],
+  "keywords": [
+    "Immigrant",
+    "Crime",
+    "Dialect",
+    "Social assimilation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Dyadic specification analysis",
+    "Instrumental Variable (IV) estimation",
+    "Robustness checks",
+    "Large-scale data analysis",
+    "Causal analysis"
+  ],
+  "industries": [
+    "Criminal Justice",
+    "Law Enforcement",
+    "Labor/Employment"
+  ],
+  "jel_codes": [
+    {
+      "code": "J15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J61",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K42",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Z13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

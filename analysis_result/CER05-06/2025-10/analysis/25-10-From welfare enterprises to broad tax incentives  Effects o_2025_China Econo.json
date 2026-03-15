@@ -1,0 +1,53 @@
+{
+  "title": "From welfare enterprises to broad tax incentives: Effects of",
+  "authors": [
+    "Muyi Li"
+  ],
+  "keywords": [
+    "Disability employment",
+    "Tax incentive policies",
+    "Welfare enterprise",
+    "Policy evaluation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Propensity Score Matching (PSM)",
+    "Difference-in-Differences (DID)",
+    "PSM-DID Combined Approach",
+    "Longitudinal Study Analysis"
+  ],
+  "industries": [
+    "Welfare Enterprises",
+    "Manufacturing",
+    "Public Sector",
+    "Social Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

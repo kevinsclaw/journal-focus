@@ -1,0 +1,71 @@
+{
+  "title": "Valuation adjustment mechanisms in venture capital and",
+  "authors": [
+    "Yi Jiang"
+  ],
+  "keywords": [
+    "Valuation adjustment mechanism",
+    "Operating performance",
+    "Short-term pressure",
+    "Entrepreneurial firms",
+    "Venture capitalists"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DiD)",
+    "Instrumental Variables (IV)",
+    "Propensity Score Matching (PSM)",
+    "Stacked DiD",
+    "Parallel trend assumption test",
+    "Endogeneity tests"
+  ],
+  "industries": [
+    "Electronics",
+    "Small and Medium Enterprises (SMEs)",
+    "Venture Capital",
+    "Financial Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "G24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "M13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D86",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "M40",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

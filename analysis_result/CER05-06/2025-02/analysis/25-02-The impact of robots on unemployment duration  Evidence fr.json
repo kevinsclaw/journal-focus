@@ -1,0 +1,70 @@
+{
+  "title": "The impact of robots on unemployment duration: Evidence from",
+  "authors": [
+    "Linhui Wang"
+  ],
+  "keywords": [
+    "Robots",
+    "Unemployment duration",
+    "Occupational sensitivity",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Survey data analysis",
+    "Individual-level data analysis",
+    "Duration analysis",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Construction",
+    "Mining",
+    "Logistics",
+    "Services",
+    "Production"
+  ],
+  "jel_codes": [
+    {
+      "code": "J64",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "P23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

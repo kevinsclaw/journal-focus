@@ -1,0 +1,78 @@
+{
+  "title": "Global value chain position, industrial policy, and bank loan",
+  "authors": [
+    "Business School",
+    "Sichuan University"
+  ],
+  "keywords": [
+    "Global value chain",
+    "Bank loan allocation",
+    "Total factor productivity",
+    "Strategic emerging industry",
+    "Industrial policy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Empirical analysis",
+    "Instrumental variables",
+    "Tobit model",
+    "Subsample analysis",
+    "Panel data analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "New energy",
+    "Aerospace",
+    "Advanced materials",
+    "Banking",
+    "Policy banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "F02",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

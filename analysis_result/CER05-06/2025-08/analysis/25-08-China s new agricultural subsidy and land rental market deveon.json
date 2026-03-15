@@ -1,0 +1,70 @@
+{
+  "title": "China’s new agricultural subsidy and land rental market",
+  "authors": [
+    "Jian Zhang"
+  ],
+  "keywords": [
+    "Land rental",
+    "land contract rights",
+    "Cobb-Douglas",
+    "Farming ability",
+    "Household income",
+    "Efficiency"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Double-hurdle model",
+    "Control Function approach",
+    "Panel data fixed effects",
+    "Cobb-Douglas production function",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Real Estate/Land rental",
+    "Grain production"
+  ],
+  "jel_codes": [
+    {
+      "code": "D63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

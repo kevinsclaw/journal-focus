@@ -1,0 +1,53 @@
+{
+  "title": "Audiovisual pesticide label: A digital expert to promote accurate",
+  "authors": [
+    "Juhui Chen"
+  ],
+  "keywords": [
+    "Labeling",
+    "User friendly",
+    "Pesticide reduction",
+    "Lab-in-the-field"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Lab-in-the-field experiment",
+    "Behavioral intervention study",
+    "QR code-based information delivery",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Pesticide manufacturing",
+    "Agricultural chemicals",
+    "Agricultural extension services"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

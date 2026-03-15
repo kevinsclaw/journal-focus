@@ -1,0 +1,72 @@
+{
+  "title": "Trade liberalization and manufacturing robot adoption: Evidence",
+  "authors": [
+    "Fei Nie"
+  ],
+  "keywords": [
+    "Trade liberalization",
+    "Robot adoption",
+    "Manufacturing sectors",
+    "Quasi-experiments",
+    "Free trade agreements"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Quasi-experimental design",
+    "Empirical analysis",
+    "Bilateral trade flow analysis",
+    "Comparative analysis",
+    "Export concentration analysis",
+    "Industrial structure analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Automotive manufacturing",
+    "Non-automotive manufacturing",
+    "Industrial robotics",
+    "Export-oriented manufacturing"
+  ],
+  "jel_codes": [
+    {
+      "code": "D23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E61",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

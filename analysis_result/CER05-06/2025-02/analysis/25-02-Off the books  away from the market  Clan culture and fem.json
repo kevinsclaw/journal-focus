@@ -1,0 +1,70 @@
+{
+  "title": "Off the books, away from the market: Clan culture and female",
+  "authors": [
+    "Feng Huang"
+  ],
+  "keywords": [
+    "Female labor force participation",
+    "Clan culture",
+    "Gender norms"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Fixed Effects regression",
+    "Instrumental Variables (IV)",
+    "Cross-sectional analysis",
+    "Historical data analysis",
+    "Survey data analysis",
+    "Hand-collected genealogy data",
+    "Census data analysis"
+  ],
+  "industries": [
+    "Labor market",
+    "Education",
+    "Service sector",
+    "Household production"
+  ],
+  "jel_codes": [
+    {
+      "code": "J16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "N35",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Z10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

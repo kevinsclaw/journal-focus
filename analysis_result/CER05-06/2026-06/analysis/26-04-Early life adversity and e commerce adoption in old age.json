@@ -1,0 +1,67 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "E-commerce adoption",
+    "Population aging in China",
+    "Famine",
+    "Trust"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Placebo tests",
+    "Robustness checks",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "E-commerce",
+    "Digital payments",
+    "Online retail"
+  ],
+  "jel_codes": [
+    {
+      "code": "J14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L81",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

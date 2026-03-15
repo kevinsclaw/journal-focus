@@ -1,0 +1,70 @@
+{
+  "title": "Place-based policies, creation and reallocation effects on city",
+  "authors": [
+    "Shiyu Cheng"
+  ],
+  "keywords": [
+    "Place-based policy",
+    "Cross-border E-commerce comprehensive pilot",
+    "zones",
+    "City exports",
+    "Spillover effects"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Generalized Difference-in-Differences (DID)",
+    "Panel Data Analysis",
+    "Manual Data Collection",
+    "Regression Analysis with Time Trends"
+  ],
+  "industries": [
+    "E-commerce",
+    "Cross-border Trade",
+    "Manufacturing",
+    "Export Trading",
+    "Logistics"
+  ],
+  "jel_codes": [
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O25",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

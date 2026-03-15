@@ -1,0 +1,53 @@
+{
+  "title": "Political career incentives and multitasking trade-off: Evidence",
+  "authors": [
+    "Zhouling Bai"
+  ],
+  "keywords": [
+    "Target setting",
+    "Multi-task interaction",
+    "Fuzzy regression discontinuity",
+    "Political career incentives"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Fuzzy Regression Discontinuity (RD) Design",
+    "Principal-Agent Analysis",
+    "Multi-task Interaction Analysis",
+    "Performance Target Analysis",
+    "Subperiod Analysis"
+  ],
+  "industries": [
+    "Public Administration",
+    "Urban Governance",
+    "Environmental Protection"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

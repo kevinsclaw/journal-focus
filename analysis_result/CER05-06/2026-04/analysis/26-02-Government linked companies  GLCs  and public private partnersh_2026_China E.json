@@ -1,0 +1,54 @@
+{
+  "title": "Government linked companies (GLCs) and public private",
+  "authors": [
+    "Xiaoting Zheng"
+  ],
+  "keywords": [
+    "Public private partnership",
+    "Government linked companies",
+    "Water utilities",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Principal-agent theory",
+    "Empirical analysis",
+    "Causal effects analysis"
+  ],
+  "industries": [
+    "Water utilities",
+    "Public infrastructure",
+    "State-owned enterprises",
+    "Public utilities"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

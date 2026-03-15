@@ -1,0 +1,62 @@
+{
+  "title": "Unveiling paradoxes of access: How higher education expansion",
+  "authors": [
+    "Jingfang Liu"
+  ],
+  "keywords": [
+    "Educational opportunity disparities",
+    "College admission quota",
+    "Higher education expansion",
+    "Intergenerational mobility"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Empirical analysis",
+    "Theoretical framework modeling",
+    "Quota system analysis",
+    "Intergenerational mobility analysis",
+    "Regional comparative analysis"
+  ],
+  "industries": [
+    "Education",
+    "Higher Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "E24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

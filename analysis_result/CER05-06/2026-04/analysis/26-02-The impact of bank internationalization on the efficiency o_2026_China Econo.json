@@ -1,0 +1,67 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Bank internationalization",
+    "OFDI efficiency",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Stochastic Frontier Analysis (SFA)",
+    "Instrumental Variables (IV)",
+    "Heckman two-step model",
+    "Oster method",
+    "Placebo tests",
+    "Survey analysis",
+    "Mechanism analysis",
+    "Robustness checks"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "International Trade",
+    "Manufacturing",
+    "Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "F30",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Research article",
+  "authors": [
+    "Jianghuai Hou"
+  ],
+  "keywords": [
+    "International trade",
+    "Macroeconomy",
+    "DHFM",
+    "FAVAR",
+    "Montary policy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Dynamic Hierarchical Factor Model (DHFM)",
+    "Factor-Augmented Vector Autoregression (FAVAR)",
+    "Dynamic Factor Model (DFM)"
+  ],
+  "industries": [
+    "Manufacturing (Medium-tech)",
+    "Manufacturing (High-tech)",
+    "International Trade",
+    "Financial Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "C32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F40",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

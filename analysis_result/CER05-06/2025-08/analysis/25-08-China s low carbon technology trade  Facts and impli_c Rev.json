@@ -1,0 +1,70 @@
+{
+  "title": "China’s low-carbon technology trade: Facts and implications☆",
+  "authors": [
+    "Praveena Bandara"
+  ],
+  "keywords": [
+    "China’s economy",
+    "low-carbon technologies",
+    "carbon emissions"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Gravity model",
+    "Fixed-effects regression",
+    "Panel data analysis",
+    "Heterogeneity analysis",
+    "Statistical analysis using trade data"
+  ],
+  "industries": [
+    "Renewable energy",
+    "Clean technology manufacturing",
+    "Energy storage",
+    "Electric vehicles",
+    "Pollution control technology",
+    "Energy efficiency technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O44",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q56",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

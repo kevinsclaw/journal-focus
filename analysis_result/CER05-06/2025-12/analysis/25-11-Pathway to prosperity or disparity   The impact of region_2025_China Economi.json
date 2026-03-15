@@ -1,0 +1,54 @@
+{
+  "title": "Pathway to prosperity or disparity?: The impact of regional IT",
+  "authors": [
+    "Peinan Ji"
+  ],
+  "keywords": [
+    "IT penetration",
+    "Common wealth",
+    "Urban-rural gap",
+    "Digital agriculture",
+    "Rural revitalization"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Empirical analysis",
+    "Panel data analysis",
+    "Balanced panel regression"
+  ],
+  "industries": [
+    "Digital Finance",
+    "Agriculture",
+    "Information Technology",
+    "Healthcare",
+    "Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

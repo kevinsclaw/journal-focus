@@ -1,0 +1,47 @@
+{
+  "title": "Analysing decision behavior styles in contingent valuation: The",
+  "authors": [
+    "Hongyan Su"
+  ],
+  "keywords": [
+    "Contingent valuation",
+    "Decision behavior styles",
+    "Latent class analysis",
+    "Factor analysis"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Latent Class Analysis",
+    "Factor Analysis",
+    "Contingent Valuation (CV)",
+    "Mediation Tests",
+    "Bounded Rationality Analysis"
+  ],
+  "industries": [
+    "Environmental Services",
+    "Public Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

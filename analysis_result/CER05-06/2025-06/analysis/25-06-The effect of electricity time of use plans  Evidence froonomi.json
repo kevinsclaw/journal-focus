@@ -1,0 +1,58 @@
+{
+  "title": "The effect of electricity time-of-use plans: Evidence from the",
+  "authors": [
+    "Lingfang Li"
+  ],
+  "keywords": [
+    "TOU",
+    "Electricity",
+    "Staggered DID",
+    "Two-way fixed effects",
+    "Power grid"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered Difference-in-Differences (DID)",
+    "Two-way Fixed Effects",
+    "Panel Data Analysis",
+    "Quasi-experimental Design"
+  ],
+  "industries": [
+    "Electric Power/Utilities",
+    "Industrial Manufacturing",
+    "Power Grid/Energy Distribution"
+  ],
+  "jel_codes": [
+    {
+      "code": "D00",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q4",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q41",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

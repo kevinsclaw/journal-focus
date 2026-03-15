@@ -1,0 +1,71 @@
+{
+  "title": "The impact of health insurance on informal care: Evidence from",
+  "authors": [
+    "Zhuang Hao",
+    "Renxin Bian",
+    "Yuze Wang"
+  ],
+  "keywords": [
+    "Informal care",
+    "Health insurance",
+    "Rural China",
+    "Urban-rural basic health insurance",
+    "consolidation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Quasi-experimental design",
+    "Exploiting variations in timing and cities",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Health Insurance",
+    "Elder Care",
+    "Long-term Care"
+  ],
+  "jel_codes": [
+    {
+      "code": "I12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

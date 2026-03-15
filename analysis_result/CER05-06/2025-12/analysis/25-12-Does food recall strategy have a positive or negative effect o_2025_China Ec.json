@@ -1,0 +1,68 @@
+{
+  "title": "Does food recall strategy have a positive or negative effect on trust",
+  "authors": [
+    "Xiaoyan Wang"
+  ],
+  "keywords": [
+    "Food recall strategy",
+    "Trust repair",
+    "Trust violation type",
+    "Disposition to trust"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Scenario-based experiment",
+    "Difference-in-differences (DID)",
+    "Moderation analysis"
+  ],
+  "industries": [
+    "Food & Beverage",
+    "Dairy",
+    "Food Manufacturing",
+    "Food Retail",
+    "Confectionery"
+  ],
+  "jel_codes": [
+    {
+      "code": "C93",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "M31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

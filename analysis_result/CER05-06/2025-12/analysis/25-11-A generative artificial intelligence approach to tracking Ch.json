@@ -1,0 +1,30 @@
+{
+  "title": "A generative artificial intelligence approach to tracking Chinese",
+  "authors": [
+    "Zhang Wu"
+  ],
+  "keywords": [
+    "Generative artificial intelligence",
+    "Property market sentiment",
+    "Granular sentiment indices",
+    "Chinese Mainland"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Generative AI (GenAI)",
+    "Human-in-the-loop validation",
+    "Sentiment analysis",
+    "Web scraping",
+    "Social media data mining",
+    "Time series analysis",
+    "Natural Language Processing (NLP)"
+  ],
+  "industries": [
+    "Real Estate",
+    "Social Media",
+    "Housing/Property",
+    "Banking/Financial Services"
+  ],
+  "jel_codes": []
+}

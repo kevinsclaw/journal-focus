@@ -1,0 +1,73 @@
+{
+  "title": "Place-based policies and gendered human capital formation:",
+  "authors": [
+    "Lu Lin"
+  ],
+  "keywords": [
+    "Place-based policy",
+    "Human capital",
+    "Gender gap",
+    "Higher education"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-difference-in-differences (DDD)",
+    "Cohort analysis",
+    "Instrumental Variables (using SEZ upgrading status of other cities as instrument)",
+    "Mechanism analysis",
+    "Causal inference"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Automotive",
+    "Retail",
+    "Wholesale",
+    "Hospitality (restaurants and hotels)",
+    "Knowledge-intensive business services (KIBS)",
+    "Non-knowledge-intensive business services (non-KIBS)",
+    "Higher Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "J16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

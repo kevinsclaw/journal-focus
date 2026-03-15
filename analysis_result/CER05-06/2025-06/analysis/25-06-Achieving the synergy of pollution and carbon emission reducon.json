@@ -1,0 +1,80 @@
+{
+  "title": "Achieving the synergy of pollution and carbon emission",
+  "authors": [
+    "Jie Dian"
+  ],
+  "keywords": [
+    "Artificial intelligence applications",
+    "Synergy of pollution and carbon emission",
+    "reductions",
+    "Technological innovation",
+    "Energy structure optimization",
+    "Labor substitution"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Two-way fixed-effect model (TWFE)",
+    "Systematic generalized method of moment",
+    "Spatial Durbin model (SDM)",
+    "Theoretical model decomposition",
+    "Panel data analysis",
+    "Production task model"
+  ],
+  "industries": [
+    "Energy",
+    "Manufacturing",
+    "Industrial production",
+    "Information Technology",
+    "Renewable Energy",
+    "Advanced Machinery",
+    "Biotechnology"
+  ],
+  "jel_codes": [
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q43",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Can board ESG oversight promote corporate international",
+  "authors": [
+    "Qilin Cao"
+  ],
+  "keywords": [
+    "Board ESG oversight",
+    "Corporate international expansion",
+    "Financing constraints",
+    "Supply chain resilience",
+    "Company law amendment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Entropy weighting method",
+    "Empirical analysis",
+    "Heterogeneity analysis",
+    "Panel data analysis",
+    "Mediating effect analysis",
+    "Moderating effect analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Green technology",
+    "International trade"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "企业数字化与供应链多元化：来自中国的证据",
+  "authors": [
+    "企业数字",
+    "化与供应",
+    "链多元化",
+    "来自中国",
+    "的证据"
+  ],
+  "keywords": [
+    "企业数字化",
+    "供应链多元化",
+    "信息摩擦",
+    "供应链韧性"
+  ],
+  "abstract": "在数字经济快速发展的背景下，企业数字化如何赋能供应链多元 化、提升韧性，变得尤为重要。本文构建理论模型探究风险规避型企业如何在信 息摩擦下配置供应商结构，揭示出企业数字化促进供应链多元化的微观机制。基 于中国上市公司样本数据，本文研究表明： （1）企业数字化显著提升了其供应链多元 化水平，在使用倾向得分加权法、外生政策冲击和工具变量之后依然稳健； （2）企业 数字化对供应链多元化的促进作用对于数字经济发展水平较低地区的企业和非 制造业企业的影响更大； （3）企业数字化通过提升信息搜寻能力、创新能力和议价 能力间接促进了供应链多元化。据此，大力发展数字经济可推动企业供应链多元 化，提高企业供应链韧性。",
+  "language": "zh",
+  "methods": [
+    "理论博弈模型",
+    "倾向得分加权法(PSM)",
+    "外生政策冲击分析",
+    "工具变量法(IV)",
+    "Heckman机制分析模型",
+    "多边谈判Shapley解",
+    "Nash-in-Nash解"
+  ],
+  "industries": [
+    "制造业",
+    "数字经济",
+    "供应链产业"
+  ],
+  "cssci_categories": [
+    "经济学",
+    "管理学",
+    "政治学"
+  ],
+  "funding": [],
+  "jel_codes": [
+    {
+      "code": "O33",
+      "confidence": 0.9,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L14",
+      "confidence": 0.9,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L23",
+      "confidence": 0.9,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L20",
+      "confidence": 0.58,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "D21",
+      "confidence": 0.58,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L60",
+      "confidence": 0.57,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L86",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "D82",
+      "confidence": 0.25,
+      "source": "inferred_cn"
+    }
+  ]
+}

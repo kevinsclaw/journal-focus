@@ -1,0 +1,55 @@
+{
+  "title": "Journal Pre-proof",
+  "authors": [
+    "Journal Pre"
+  ],
+  "keywords": [
+    "E-commerce",
+    "Intergenerational occupational mobility",
+    "Digital divide"
+  ],
+  "abstract": "China has emerged as the world’s largest e-commerce market, reshaping the structure of labor markets and potentially expanding employment opportunities. This study examines whether the rapid expansion of rural e-commerce, via the E-commerce into the Countryside (ECC) policy, has facilitated intergenerational occupational mobility. Leveraging nationally representative household survey data comprises 9,311 household-level observations spanning from 2012 to 2022 and a staggered difference-in-differ...",
+  "language": "en",
+  "methods": [
+    "Staggered Difference-in-Differences (DID)",
+    "Survey data analysis",
+    "Heterogeneity analysis",
+    "Endogeneity corrections",
+    "Sensitivity tests",
+    "Composite index analysis"
+  ],
+  "industries": [
+    "E-commerce",
+    "Agriculture",
+    "Logistics",
+    "Digital infrastructure",
+    "Retail"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

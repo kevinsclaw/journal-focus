@@ -1,0 +1,55 @@
+{
+  "title": "Does the housing purchase restriction policy promote",
+  "authors": [
+    "Entrepreneurship\nHousing"
+  ],
+  "keywords": [
+    "Housing purchase restriction policy",
+    "Entrepreneurship",
+    "Housing speculation",
+    "Talent agglomeration"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (implied by examining policy as exogenous shock)",
+    "Channel analysis",
+    "Empirical analysis",
+    "Policy impact analysis"
+  ],
+  "industries": [
+    "Real Estate",
+    "Banking",
+    "Venture Capital",
+    "High-tech",
+    "Small-scale businesses",
+    "Construction"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

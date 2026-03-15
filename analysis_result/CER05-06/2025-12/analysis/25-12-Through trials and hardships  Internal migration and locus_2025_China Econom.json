@@ -1,0 +1,53 @@
+{
+  "title": "Through trials and hardships: Internal migration and locus of",
+  "authors": [
+    "Xiaodong Zheng"
+  ],
+  "keywords": [
+    "Internal migration experience",
+    "Socio-emotional skills",
+    "Locus of control",
+    "Entrepreneurial behavior",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Theoretical framework development",
+    "Comparative analysis",
+    "Mechanism analysis",
+    "Nationally representative datasets analysis"
+  ],
+  "industries": [
+    "Entrepreneurship",
+    "Urban development",
+    "Labor market"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

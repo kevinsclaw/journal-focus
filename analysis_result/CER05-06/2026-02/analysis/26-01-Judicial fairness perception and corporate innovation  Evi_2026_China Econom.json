@@ -1,0 +1,68 @@
+{
+  "title": "China Economic Review 95 (2026) 102597",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Judicial fairness",
+    "SME innovation",
+    "Contract enforcement",
+    "Policy effectiveness",
+    "Emerging economies"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Enterprise Survey analysis",
+    "Baseline regression analysis",
+    "Empirical analysis",
+    "Microdata analysis"
+  ],
+  "industries": [
+    "Small and Medium-sized Enterprises (SMEs)",
+    "Innovation and Entrepreneurship",
+    "Legal/Judicial services"
+  ],
+  "jel_codes": [
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

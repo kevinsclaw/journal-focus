@@ -1,0 +1,74 @@
+{
+  "title": "Did FinTech steal the cheese of banks? Evidence from Chinese",
+  "authors": [
+    "Did Fin"
+  ],
+  "keywords": [
+    "FinTech emergence",
+    "Firm exports",
+    "Financial constraints"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Theoretical modeling",
+    "Empirical analysis",
+    "Growth rate analysis",
+    "Panel data analysis"
+  ],
+  "industries": [
+    "Banking",
+    "FinTech",
+    "Export/International Trade",
+    "Peer-to-peer lending",
+    "Mobile payments",
+    "Wealth management"
+  ],
+  "jel_codes": [
+    {
+      "code": "F12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E44",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

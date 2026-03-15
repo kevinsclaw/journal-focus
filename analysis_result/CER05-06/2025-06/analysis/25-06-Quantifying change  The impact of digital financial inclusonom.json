@@ -1,0 +1,70 @@
+{
+  "title": "China Economic Review 91 (2025) 102399",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Digital financial inclusion",
+    "Income inequality",
+    "Spatial dynamic panel quantile model",
+    "Interactive fixed effects"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Spatial dynamic panel quantile model",
+    "Interactive fixed effects model",
+    "Panel data analysis",
+    "Quantile regression",
+    "Spatial correlation analysis"
+  ],
+  "industries": [
+    "Digital Finance",
+    "Financial Services",
+    "Banking",
+    "Digital Payments",
+    "Internet Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "C51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

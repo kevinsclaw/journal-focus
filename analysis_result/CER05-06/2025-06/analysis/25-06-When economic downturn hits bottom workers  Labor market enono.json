@@ -1,0 +1,57 @@
+{
+  "title": "When economic downturn hits bottom workers: Labor market",
+  "authors": [
+    "Ye Jiang"
+  ],
+  "keywords": [
+    "Labor market entry conditions",
+    "Bottom workers",
+    "Rural-urban migrants",
+    "Earnings",
+    "Employment",
+    "Long-term effects"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Ordinary Least Squares (OLS)",
+    "Instrumental Variables (IV)",
+    "Baseline estimations",
+    "Heterogeneity analysis",
+    "Robustness checks",
+    "Summary statistics"
+  ],
+  "industries": [
+    "Labor/Employment",
+    "Agriculture",
+    "Urban services",
+    "Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

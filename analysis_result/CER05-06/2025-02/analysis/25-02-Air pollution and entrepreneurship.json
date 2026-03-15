@@ -1,0 +1,67 @@
+{
+  "title": "Air pollution and entrepreneurship",
+  "authors": [
+    "Liwen Guo"
+  ],
+  "keywords": [
+    "Air pollution",
+    "Entrepreneurship",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Two-way fixed effects model",
+    "Instrumental Variable (IV) approach",
+    "Panel data analysis",
+    "Longitudinal study",
+    "Causal effect analysis"
+  ],
+  "industries": [
+    "Non-agricultural entrepreneurship",
+    "Small business/Self-employment",
+    "Environmental services"
+  ],
+  "jel_codes": [
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L26",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

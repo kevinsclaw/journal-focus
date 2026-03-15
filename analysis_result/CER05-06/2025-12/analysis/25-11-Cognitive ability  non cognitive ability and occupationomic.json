@@ -1,0 +1,57 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Cognitive ability",
+    "Non-cognitive ability",
+    "Occupational attainment",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel Data Analysis",
+    "Cognitive Tests",
+    "Personality Assessment (Big Five)",
+    "Linear Regression",
+    "Non-linear Regression",
+    "Distribution Analysis",
+    "Robustness Testing",
+    "Selection Bias Analysis"
+  ],
+  "industries": [
+    "Technology",
+    "Labor Market",
+    "Education",
+    "Professional Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

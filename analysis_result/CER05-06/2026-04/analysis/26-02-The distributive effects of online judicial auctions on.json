@@ -1,0 +1,70 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Online judicial auctions",
+    "Creditor protection",
+    "General equilibrium effect",
+    "Small and medium enterprises"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "General equilibrium analysis",
+    "Quasi-experimental design",
+    "Staggered adoption analysis",
+    "Statistical analysis of firm-level datasets"
+  ],
+  "industries": [
+    "Banking/Lending",
+    "Financial Services",
+    "Legal/Judicial Services",
+    "FinTech",
+    "Small and Medium Enterprises (SMEs)"
+  ],
+  "jel_codes": [
+    {
+      "code": "G21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

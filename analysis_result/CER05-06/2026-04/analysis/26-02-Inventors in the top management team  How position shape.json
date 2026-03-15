@@ -1,0 +1,71 @@
+{
+  "title": "Inventors in the top management team: How position shapes",
+  "authors": [
+    "Yafei Li"
+  ],
+  "keywords": [
+    "Inventor executive",
+    "Corporate innovation",
+    "TMT",
+    "Executive position"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Poisson regression",
+    "Negative binomial regression",
+    "Placebo tests",
+    "Database matching/construction",
+    "Mechanism analysis",
+    "Upper echelons theory"
+  ],
+  "industries": [
+    "State-owned enterprises (SOEs)",
+    "Research & Development (R&D)",
+    "Manufacturing",
+    "Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

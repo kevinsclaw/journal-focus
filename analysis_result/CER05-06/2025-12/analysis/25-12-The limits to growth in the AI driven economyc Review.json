@@ -1,0 +1,69 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "AI-driven economy",
+    "Data",
+    "Endogenous growth",
+    "Computing power",
+    "Nonrivalry"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Semi-endogenous growth model",
+    "Theoretical modeling",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Artificial Intelligence",
+    "Semiconductor/Microchips",
+    "Computing/GPU Manufacturing",
+    "Data Infrastructure",
+    "Pharmaceutical Research"
+  ],
+  "jel_codes": [
+    {
+      "code": "E22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O34",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

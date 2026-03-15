@@ -1,0 +1,54 @@
+{
+  "title": "Import diversification, market risk co-movement and Agri-food",
+  "authors": [
+    "Xixi Li"
+  ],
+  "keywords": [
+    "Import diversification",
+    "Risk co-movement",
+    "Agri-food enterprises",
+    "Supply chain resilience",
+    "Ripple effect",
+    "Nonlinear effect"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Survival Analysis",
+    "Robustness Checks",
+    "Endogeneity Tests",
+    "Heterogeneity Analysis",
+    "Nonlinear Effect Analysis",
+    "Risk Co-movement Analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Food",
+    "Agricultural Trade",
+    "Food Distribution",
+    "Agricultural Logistics",
+    "Food Retail"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

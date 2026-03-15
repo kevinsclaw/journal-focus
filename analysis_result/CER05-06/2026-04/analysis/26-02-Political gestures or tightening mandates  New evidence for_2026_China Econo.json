@@ -1,0 +1,56 @@
+{
+  "title": "Political gestures or tightening mandates? New evidence for",
+  "authors": [
+    "Jianglong Li"
+  ],
+  "keywords": [
+    "Air pollution",
+    "Campaign-style environmental intervention",
+    "Political gesture",
+    "Tightening mandates",
+    "Inspection tour",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Regression Discontinuity in Time",
+    "Difference-in-Differences",
+    "Principal-Agent Framework",
+    "Panel Data Analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Transportation",
+    "Heavy Industry",
+    "Food Service",
+    "Environmental Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

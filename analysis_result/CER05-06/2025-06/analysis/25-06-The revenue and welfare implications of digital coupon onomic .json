@@ -1,0 +1,58 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Fiscal stimulus program",
+    "Digital coupon",
+    "Inequality"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Regression Discontinuity Design (RD)",
+    "Causal Analysis",
+    "Spatial Analysis",
+    "Comparative Analysis",
+    "Statistical Extrapolation"
+  ],
+  "industries": [
+    "Food Service/Restaurants",
+    "Food Delivery",
+    "Digital Payments/Mobile Platforms",
+    "Local Retail"
+  ],
+  "jel_codes": [
+    {
+      "code": "P25",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "P36",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "E21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

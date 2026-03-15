@@ -1,0 +1,68 @@
+{
+  "title": "Inclusive growth dilemma: Weighing the pros and cons of land",
+  "authors": [
+    "Guangyu Xu"
+  ],
+  "keywords": [
+    "Agricultural land reform",
+    "Land consolidation",
+    "Efficiency",
+    "Equality",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered Difference-in-Differences (SDID)",
+    "Panel Data Analysis",
+    "Mechanism Analysis",
+    "Causal Identification"
+  ],
+  "industries": [
+    "Agriculture",
+    "Real Estate/Land Markets",
+    "Rural Development"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

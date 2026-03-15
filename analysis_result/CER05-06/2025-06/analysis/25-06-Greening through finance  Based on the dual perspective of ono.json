@@ -1,0 +1,58 @@
+{
+  "title": "Greening through finance? Based on the dual perspective of",
+  "authors": [
+    "Xiaomeng Zhao"
+  ],
+  "keywords": [
+    "Green finance",
+    "Green investment",
+    "Executive environmental awareness",
+    "Internal and external supervision",
+    "Market-driven"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Panel Data Analysis",
+    "Robustness Checks",
+    "Placebo Tests",
+    "Empirical Analysis",
+    "Causal Analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Green Finance",
+    "Manufacturing",
+    "Heavy Industry",
+    "Environmental Services",
+    "State-owned Enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

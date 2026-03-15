@@ -1,0 +1,55 @@
+{
+  "title": "Good for bad: The heterogeneous effects of export controls on",
+  "authors": [
+    "Qing Liu"
+  ],
+  "keywords": [
+    "Export controls",
+    "U.S. entity list",
+    "ESG",
+    "Uncertainty"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Multiple-period Difference-in-Differences (DID)",
+    "Propensity Score Matching (PSM-DID)",
+    "Awareness-Motivation-Capability (AMC) framework",
+    "Heterogeneity analysis",
+    "Robustness tests"
+  ],
+  "industries": [
+    "Software and Information Technology Services",
+    "Science and Technology Promotion Services",
+    "Research and Experimental Development",
+    "Technology sector",
+    "Surveillance technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

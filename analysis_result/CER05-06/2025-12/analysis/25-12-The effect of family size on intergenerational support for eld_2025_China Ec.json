@@ -1,0 +1,66 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Fertility",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Longitudinal Study",
+    "Policy Impact Analysis",
+    "Cohort Analysis",
+    "Multi-level Analysis (province, urban, birth-cohort)",
+    "Empirical Analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Social Services",
+    "Elder Care"
+  ],
+  "jel_codes": [
+    {
+      "code": "H31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

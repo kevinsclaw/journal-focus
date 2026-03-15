@@ -1,0 +1,57 @@
+{
+  "title": "Does high-speed rail development impact online healthcare",
+  "authors": [
+    "Jiali Tang"
+  ],
+  "keywords": [
+    "Online healthcare",
+    "High-speed rail",
+    "Online-offline complementarity",
+    "Geographic friction",
+    "Infrastructure investment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Natural experiment",
+    "Fixed effects model",
+    "Staggered DID",
+    "Quasi-experimental design",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Transportation",
+    "Digital platforms/E-commerce",
+    "Medical services",
+    "Railway/High-speed rail"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

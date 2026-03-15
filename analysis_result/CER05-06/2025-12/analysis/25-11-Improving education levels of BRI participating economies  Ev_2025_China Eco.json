@@ -1,0 +1,52 @@
+{
+  "title": "Improving education levels of BRI participating economies:",
+  "authors": [
+    "Road Initiative"
+  ],
+  "keywords": [
+    "Belt and Road Initiative",
+    "Education Action Plan",
+    "Education level",
+    "Difference-in-differences"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Heterogeneity analysis",
+    "Mechanism analysis",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Education",
+    "Cultural products trade",
+    "Vocational education"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

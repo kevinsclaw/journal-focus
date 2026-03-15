@@ -1,0 +1,69 @@
+{
+  "title": "Digital finance development, financial mismatches, and corporate",
+  "authors": [
+    "Rui Yang"
+  ],
+  "keywords": [
+    "Digital finance development",
+    "Financial mismatches",
+    "Corporate shadow banking activities"
+  ],
+  "abstract": "ed from the China Banking Database (CBD) at the Wuhan University. As indicated in Column (3), the coefficient estimate for DFD remains statistically significant and negative at the 1 % level even after accounting for bank competition. Further­ more, the coefficient estimate for the HHI is statistically significant and positive, suggesting an inverse relationship between bank competition and CSB activities in line with the findings of Jiang et al. (2023).13 Table 5 Robustness checks: alternative ...",
+  "language": "en",
+  "methods": [
+    "Empirical analysis",
+    "Robustness checks",
+    "Endogeneity analysis",
+    "Panel data analysis",
+    "Causal analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Financial services",
+    "Non-financial enterprises",
+    "Digital finance",
+    "Shadow banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "G32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

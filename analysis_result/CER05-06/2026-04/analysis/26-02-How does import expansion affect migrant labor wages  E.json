@@ -1,0 +1,53 @@
+{
+  "title": "How does import expansion affect migrant labor wages: Evidence",
+  "authors": [
+    "Kaijie Li"
+  ],
+  "keywords": [
+    "Import expansion",
+    "Migrant labor",
+    "Wage level",
+    "IV quantile regression with panel data"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "IV quantile regression",
+    "Shift-share instrumental variable strategy",
+    "Panel data analysis",
+    "Mechanism analysis",
+    "Linear fitting"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Trade",
+    "Labor market services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

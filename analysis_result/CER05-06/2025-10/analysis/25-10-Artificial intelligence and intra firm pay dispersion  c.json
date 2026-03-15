@@ -1,0 +1,72 @@
+{
+  "title": "Artificial intelligence and intra-firm pay dispersion: Evidence",
+  "authors": [
+    "Tingyu Liu"
+  ],
+  "keywords": [
+    "Artificial intelligence",
+    "Pay dispersion",
+    "Wage polarization",
+    "Wage inequality"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Patent data analysis",
+    "Regression analysis",
+    "Task-based decomposition",
+    "Cross-industry analysis",
+    "Elasticity analysis",
+    "Robustness checks",
+    "Structural analysis"
+  ],
+  "industries": [
+    "Manufacturing (Industrial Robots)",
+    "Technology/AI",
+    "Capital-intensive industries",
+    "State-owned enterprises",
+    "Non-state enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "O32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Self-employment and co-villager networks of internal migrants",
+  "authors": [
+    "Ying Deng"
+  ],
+  "keywords": [
+    "Self-employment",
+    "Co-villager network",
+    "Own-account self-employed",
+    "Internal migrants",
+    "SAR",
+    "Causal Forest with IV"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Spatial Autoregressive (SAR) Model",
+    "Spatial Two-Stage Least Squares (S2SLS)",
+    "Linear Probability Model",
+    "Causal Forest with Instrumental Variables (IV)",
+    "Nonlinear Estimations",
+    "Spatial Weight Matrices Analysis"
+  ],
+  "industries": [
+    "Service Industries",
+    "Small Business/Self-Employment"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Free teacher education in rural China: Incentives and challenges1",
+  "authors": [
+    "Xiaoyang Ye"
+  ],
+  "keywords": [
+    "College choice",
+    "Teacher education",
+    "Free college",
+    "Policy design"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Administrative data analysis",
+    "Randomized survey experiment",
+    "Difference-in-differences (implied by multi-phase program analysis)",
+    "Quantitative analysis of admission records",
+    "Policy impact evaluation"
+  ],
+  "industries": [
+    "Education",
+    "Public sector/Government"
+  ],
+  "jel_codes": [
+    {
+      "code": "D83",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

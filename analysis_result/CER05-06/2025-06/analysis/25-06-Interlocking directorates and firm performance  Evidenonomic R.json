@@ -1,0 +1,66 @@
+{
+  "title": "Interlocking directorates and firm performance: Evidence",
+  "authors": [
+    "Muzi Chen"
+  ],
+  "keywords": [
+    "Interlocking directorate network",
+    "Centrality",
+    "Firm performance",
+    "Government official directors"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Social Network Analysis",
+    "Regression Analysis",
+    "Difference-in-Differences (DID)",
+    "Manual Data Collection",
+    "Centrality Analysis",
+    "Panel Data Analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Securities/Financial Services",
+    "State-owned Enterprises",
+    "Listed Companies (General)",
+    "Government Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "G34",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D85",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

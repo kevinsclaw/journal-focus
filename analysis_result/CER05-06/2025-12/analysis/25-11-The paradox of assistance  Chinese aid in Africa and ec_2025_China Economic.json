@@ -1,0 +1,76 @@
+{
+  "title": "The paradox of assistance: Chinese aid in Africa and",
+  "authors": [
+    "Jialiang Zhu"
+  ],
+  "keywords": [
+    "Chinese aid",
+    "Economic expectation",
+    "Africa",
+    "Institutional trust"
+  ],
+  "abstract": "views about Chinese involvement. Outcomes at completion diverge across the two domains. For national expectations, the effect becomes more negative with a coefficient of −0.411, indicating that the decline observed during implementation persists and even deepens as projects conclude. For personal expectations, the effect remains negative but attenuates to −0.212, suggesting partial dissipation once construction ends and Table 5 Aid and economic expectations: announcement vs. implementation. (1) ...",
+  "language": "en",
+  "methods": [
+    "Shift-share instrumental variables (IV)",
+    "Linear regression models",
+    "Ordered-outcome models",
+    "Event study analysis",
+    "Spatial analysis",
+    "Panel data analysis",
+    "Mechanism testing"
+  ],
+  "industries": [
+    "Construction",
+    "International Development",
+    "Public Administration",
+    "Infrastructure"
+  ],
+  "jel_codes": [
+    {
+      "code": "D73",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F35",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O1",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O55",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J16",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

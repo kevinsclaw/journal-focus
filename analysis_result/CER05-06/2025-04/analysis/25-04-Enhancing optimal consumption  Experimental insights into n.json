@@ -1,0 +1,54 @@
+{
+  "title": "Enhancing optimal consumption: Experimental insights into",
+  "authors": [
+    "Xue Zhou"
+  ],
+  "keywords": [
+    "Consumer credit",
+    "Borrowing behavior",
+    "Nudge",
+    "Optimal consumption",
+    "Intertemporal consumption experiment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Experimental design",
+    "Life cycle model",
+    "Intertemporal consumption decision experiment",
+    "Behavioral interventions",
+    "Nudge experiments"
+  ],
+  "industries": [
+    "Consumer Credit",
+    "Financial Services",
+    "Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J16",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Urban fragmentation and innovation collaboration: Evidence",
+  "authors": [
+    "Fanghao Chen"
+  ],
+  "keywords": [
+    "Urban fragmentation",
+    "Collaborative innovation",
+    "Face-to-face interactions"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Satellite data analysis",
+    "Urban polygon delineation",
+    "Decomposition analysis",
+    "Panel data analysis",
+    "Quasi-experimental design",
+    "Empirical regression analysis",
+    "Mechanism analysis",
+    "Spatial analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Urban development",
+    "Transportation",
+    "Real estate",
+    "Innovation/Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "R10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O30",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

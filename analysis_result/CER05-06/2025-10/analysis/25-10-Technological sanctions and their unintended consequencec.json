@@ -1,0 +1,53 @@
+{
+  "title": "Technological sanctions and their unintended consequences:",
+  "authors": [
+    "Yue Li"
+  ],
+  "keywords": [
+    "Technology sanction",
+    "Technology diffusion",
+    "International trade"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel Smooth Transition Regression (PSTR)",
+    "Melitz Model Extension",
+    "Theoretical Modeling",
+    "Empirical Analysis"
+  ],
+  "industries": [
+    "Semiconductor",
+    "Manufacturing",
+    "Artificial Intelligence",
+    "Biotechnology",
+    "Quantum Computing"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

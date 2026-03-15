@@ -1,0 +1,75 @@
+{
+  "title": "Robots and cost of equity: Evidence from China",
+  "authors": [
+    "Chao He"
+  ],
+  "keywords": [
+    "Robots",
+    "Cost of equity",
+    "Operating leverage",
+    "Employee satisfaction"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel regression analysis",
+    "Instrumental Variables (IV) using US/EU market data",
+    "Q factor model (Hou et al. 2015)",
+    "Mechanism analysis",
+    "Robustness tests",
+    "Cross-sectional analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial robotics",
+    "Factory automation",
+    "Capital equipment"
+  ],
+  "jel_codes": [
+    {
+      "code": "G11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "P27",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

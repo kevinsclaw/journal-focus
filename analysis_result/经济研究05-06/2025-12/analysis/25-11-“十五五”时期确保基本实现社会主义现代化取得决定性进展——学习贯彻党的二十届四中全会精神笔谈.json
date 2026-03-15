@@ -1,0 +1,76 @@
+{
+  "title": "“十五五”时期确保基本实现社会主义现代化",
+  "authors": [
+    "十五五",
+    "时期确保",
+    "基本实现",
+    "社会主义",
+    "现代化"
+  ],
+  "keywords": [],
+  "abstract": "",
+  "language": "zh",
+  "methods": [
+    "理论分析",
+    "文献研究",
+    "历史分析"
+  ],
+  "industries": [
+    "制造业",
+    "农业",
+    "金融业",
+    "新能源",
+    "集成电路",
+    "医疗健康",
+    "数字经济",
+    "服务业"
+  ],
+  "cssci_categories": [
+    "经济学",
+    "管理学",
+    "政治学"
+  ],
+  "funding": [],
+  "jel_codes": [
+    {
+      "code": "L80",
+      "confidence": 0.6,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L60",
+      "confidence": 0.43,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "Q10",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "Q12",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "G20",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "Q40",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "Q41",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "I11",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Talent magnets in China: Can talent attraction policies catalyze",
+  "authors": [
+    "Zesu Hua",
+    "Shuning Kong"
+  ],
+  "keywords": [
+    "Digital transformation",
+    "Talent attraction policies",
+    "Human capital",
+    "Digitalization resources",
+    "Quasi-experimental design"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Quasi-experimental design",
+    "Mechanism analysis",
+    "Robustness tests",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Digital technology",
+    "Artificial intelligence",
+    "Blockchain",
+    "Cloud computing",
+    "Big data",
+    "High-tech"
+  ],
+  "jel_codes": [
+    {
+      "code": "G34",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "M12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

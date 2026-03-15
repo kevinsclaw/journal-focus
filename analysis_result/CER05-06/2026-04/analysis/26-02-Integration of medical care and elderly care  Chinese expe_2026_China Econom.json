@@ -1,0 +1,67 @@
+{
+  "title": "Integration of medical care and elderly care: Chinese experience",
+  "authors": [
+    "Chunfeng Zhang"
+  ],
+  "keywords": [
+    "Integration",
+    "Medical care",
+    "Elderly care",
+    "Mortality",
+    "Older adults"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Panel Data Analysis",
+    "Mechanism Analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Elderly Care/Long-term Care",
+    "Insurance"
+  ],
+  "jel_codes": [
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

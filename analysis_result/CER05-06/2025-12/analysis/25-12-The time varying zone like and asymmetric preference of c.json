@@ -1,0 +1,79 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Time-varying parameter model",
+    "Forward-looking monetary policy rule",
+    "Leverage",
+    "Asymmetric and zone-like preference"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Time-varying parameter model (TVP)",
+    "Forward-looking monetary policy rule",
+    "Akaike information criterion (AIC)",
+    "Loss function analysis",
+    "Asymmetric preference modeling",
+    "Zone-like preference modeling"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Central Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "E5",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

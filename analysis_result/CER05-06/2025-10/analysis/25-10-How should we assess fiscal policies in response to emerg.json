@@ -1,0 +1,56 @@
+{
+  "title": "How should we assess fiscal policies in response to emerging",
+  "authors": [
+    "Nanak Kakwani"
+  ],
+  "keywords": [
+    "Fiscal policy",
+    "Equity",
+    "Efficiency",
+    "Government tax policies",
+    "Inequality",
+    "Poverty"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Social welfare function analysis",
+    "Fiscal policy analysis",
+    "Distributional analysis",
+    "Progressive tax analysis"
+  ],
+  "industries": [
+    "Public Finance",
+    "Government Services",
+    "Social Services",
+    "Healthcare",
+    "Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

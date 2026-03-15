@@ -1,0 +1,55 @@
+{
+  "title": "The effect living arrangements and intergenerational support have",
+  "authors": [
+    "Sarah Bridges"
+  ],
+  "keywords": [
+    "Catastrophic health expenditure",
+    "Living arrangements",
+    "Non-communicable diseases",
+    "Support networks",
+    "Migration"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Longitudinal data analysis",
+    "Microeconomic analysis",
+    "Descriptive analysis",
+    "Cross-sectional comparison",
+    "Survey data analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Health insurance",
+    "Elder care",
+    "Social services"
+  ],
+  "jel_codes": [
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

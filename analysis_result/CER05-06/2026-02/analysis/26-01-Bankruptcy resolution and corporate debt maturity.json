@@ -1,0 +1,82 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Corporate bankruptcy",
+    "Debt maturity",
+    "Judicial efficiency",
+    "Creditor coordination",
+    "Real impact"
+  ],
+  "abstract": "s from additional procedural costs, such as legal fees, to highlight the primary transmission mechanism. 19 Even in the presence of multiple short-term and long-term creditors, as suggested by Diamond (2004), each group of them consistently generates an incentive for collective action, which aligns with the conclusion drawn from our normalization assumption. 20 We clarify the rationale for this setting here. After 𝑉assets are investigated in bankruptcy proceedings, 𝑙(𝐸)𝑉asset depreciates in this...",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DiD)",
+    "Event Study Analysis",
+    "Fixed Effects Models",
+    "Theoretical Framework Modeling",
+    "Database Construction",
+    "Empirical Analysis",
+    "Mechanism Testing"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Legal Services",
+    "Corporate Finance"
+  ],
+  "jel_codes": [
+    {
+      "code": "G32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K40",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

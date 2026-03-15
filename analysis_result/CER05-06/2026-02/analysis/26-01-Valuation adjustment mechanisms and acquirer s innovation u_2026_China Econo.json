@@ -1,0 +1,51 @@
+{
+  "title": "Valuation adjustment mechanisms and acquirer’s innovation",
+  "authors": [
+    "Peng Zhang"
+  ],
+  "keywords": [
+    "Valuation adjustment mechanisms",
+    "Acquirer innovation",
+    "New company law implementation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Double machine learning",
+    "Empirical analysis",
+    "Regression analysis",
+    "Robustness tests"
+  ],
+  "industries": [
+    "Financial services",
+    "Mergers & Acquisitions",
+    "Public listed companies (A-share market)"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Social norms",
+    "Third-party intervention",
+    "Norm enforcement",
+    "Norm uncertainty",
+    "Trust game",
+    "Laboratory experiment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Laboratory Experiment",
+    "Trust Game",
+    "Cross-country Comparison",
+    "Behavioral Economics",
+    "Game Theory",
+    "Z-Tree Experimental Software"
+  ],
+  "industries": [
+    "Finance"
+  ],
+  "jel_codes": [
+    {
+      "code": "C72",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D82",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

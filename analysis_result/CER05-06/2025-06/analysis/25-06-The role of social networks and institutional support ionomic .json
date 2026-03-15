@@ -1,0 +1,68 @@
+{
+  "title": "The role of social networks and institutional support in",
+  "authors": [
+    "Shuanghe Shang"
+  ],
+  "keywords": [
+    "Cluster formation",
+    "Social networks",
+    "Industrial policies"
+  ],
+  "abstract": "=5078043. Feldman, M. P. (2001). The entrepreneurial event revisited: Firm formation in a regional context. Industrial and Corporate Change, 10(4), 861–89",
+  "language": "en",
+  "methods": [
+    "Case study",
+    "Primary interviews",
+    "Social network mapping",
+    "Qualitative analysis",
+    "Conceptual framework development"
+  ],
+  "industries": [
+    "Furniture manufacturing",
+    "Outdoor furniture",
+    "Manufacturing accessories/parts",
+    "Rural workshops/processing"
+  ],
+  "jel_codes": [
+    {
+      "code": "D85",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L60",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "N65",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

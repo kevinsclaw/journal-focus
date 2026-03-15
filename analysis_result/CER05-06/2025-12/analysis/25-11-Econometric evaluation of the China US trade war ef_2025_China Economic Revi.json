@@ -1,0 +1,57 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Causal inference",
+    "Counterfactual estimation",
+    "Trade balance",
+    "Trade friction",
+    "Trade war effects"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel Data Analysis (PDA)",
+    "Difference-in-Differences (DiD)",
+    "Synthetic Control Method (SCM)",
+    "Factor Models",
+    "Counterfactual Analysis",
+    "Dynamic Permutation Test",
+    "Causal Inference",
+    "Nonstationary Time Series Analysis"
+  ],
+  "industries": [
+    "International Trade",
+    "Manufacturing",
+    "Technology/IP"
+  ],
+  "jel_codes": [
+    {
+      "code": "C10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

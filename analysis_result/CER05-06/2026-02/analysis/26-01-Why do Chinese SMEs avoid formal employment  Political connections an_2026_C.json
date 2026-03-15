@@ -1,0 +1,54 @@
+{
+  "title": "Why do Chinese SMEs avoid formal employment? Political",
+  "authors": [
+    "Ruochen Dai"
+  ],
+  "keywords": [
+    "SMEs",
+    "Employment formalization",
+    "Political connection",
+    "Business environment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Enterprise Survey analysis",
+    "Fixed Effects regression",
+    "Statistical analysis",
+    "Cost-benefit analysis framework"
+  ],
+  "industries": [
+    "Small and Medium Enterprises (SMEs)",
+    "Labor/Employment services",
+    "Insurance (Social insurance)",
+    "Banking/Financial services",
+    "Government procurement"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

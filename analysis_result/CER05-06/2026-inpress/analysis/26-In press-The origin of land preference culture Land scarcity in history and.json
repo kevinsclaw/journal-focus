@@ -1,0 +1,78 @@
+{
+  "title": "Journal Pre-proof",
+  "authors": [
+    "Journal Pre"
+  ],
+  "keywords": [
+    "household finance",
+    "agricultural endowment",
+    "real estate",
+    "land scarcity"
+  ],
+  "abstract": "This paper shows that household real estate investment today can date back to the agricultural endowment in premodern society centuries ago. In the context of China, a country with a long agricultural history and a longstanding challenge of balancing its large population with limited arable land, we find that households from regions with historically less arable land continue to exhibit higher real estate investment ratios. The land scarcity in certain regions has fostered a land preference cult...",
+  "language": "en",
+  "methods": [
+    "Instrumental Variables (IV)",
+    "Historical Data Analysis",
+    "Survey Data Analysis",
+    "Cross-sectional Analysis",
+    "Robustness Testing"
+  ],
+  "industries": [
+    "Real Estate",
+    "Agriculture",
+    "Household Finance"
+  ],
+  "jel_codes": [
+    {
+      "code": "D10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "N95",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "N55",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Z10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

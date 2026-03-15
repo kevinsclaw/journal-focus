@@ -1,0 +1,68 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Air pollution",
+    "Innovative activities",
+    "Patent value",
+    "Worker productivity"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "IV (Instrumental Variables)",
+    "Patent Renewal Model",
+    "Econometric Modeling",
+    "Panel Data Analysis",
+    "Thermal Inversion as Instrument"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Urban Development",
+    "Knowledge-intensive sectors"
+  ],
+  "jel_codes": [
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O34",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Shadow and spillover: The influence of neighboring innovative",
+  "authors": [
+    "Wenyue Cui"
+  ],
+  "keywords": [
+    "Shadow",
+    "Spillover",
+    "Innovation",
+    "Transportation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Statistical modeling",
+    "Empirical analysis",
+    "Heterogeneity testing",
+    "Mathematical modeling",
+    "Econometric modeling"
+  ],
+  "industries": [
+    "Transportation",
+    "Railways (High-speed rail)",
+    "Innovation/R&D",
+    "Urban infrastructure"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

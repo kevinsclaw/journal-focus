@@ -1,0 +1,68 @@
+{
+  "title": "The nexus between digital finance and household",
+  "authors": [
+    "Yong Yu"
+  ],
+  "keywords": [
+    "Digital finance",
+    "Household consumption carbon emission",
+    "China family panel studies"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel Data Regression",
+    "Instrumental Variables (IV)",
+    "Baseline Regression Analysis",
+    "Heterogeneity Analysis",
+    "Mechanism Analysis"
+  ],
+  "industries": [
+    "Finance",
+    "Digital Finance",
+    "Banking",
+    "E-commerce"
+  ],
+  "jel_codes": [
+    {
+      "code": "D12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G50",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q56",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

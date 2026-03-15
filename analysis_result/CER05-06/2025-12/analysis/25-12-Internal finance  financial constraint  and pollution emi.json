@@ -1,0 +1,80 @@
+{
+  "title": "Internal finance, financial constraint, and pollution emissions:",
+  "authors": [
+    "Mathilde Maurel"
+  ],
+  "keywords": [
+    "China",
+    "Pollution emissions",
+    "Financial constraints",
+    "Internal financing",
+    "TFP"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Heterogeneity analysis",
+    "Empirical analysis",
+    "Financial metrics analysis",
+    "Statistical correlation analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial sector",
+    "Banking/Financial services",
+    "Environmental services"
+  ],
+  "jel_codes": [
+    {
+      "code": "G2",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L25",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L6",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Pension",
+    "Aging population",
+    "Tax reform",
+    "Saving",
+    "Chinese economy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Overlapping Generations (OLG) model",
+    "Heterogeneous-agent modeling",
+    "Dynamic modeling",
+    "Quantitative calibration",
+    "Life-cycle framework analysis",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Pension/Retirement",
+    "Public Finance/Taxation",
+    "Social Security",
+    "Healthcare"
+  ],
+  "jel_codes": [
+    {
+      "code": "D15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H55",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J16",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

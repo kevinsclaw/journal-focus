@@ -1,0 +1,54 @@
+{
+  "title": "The impact of the global financial cycle on China’s cross-border",
+  "authors": [
+    "Hui An"
+  ],
+  "keywords": [
+    "Global financial cycle",
+    "Cross-border capital flows",
+    "Monetary policy",
+    "Push-pull framework"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Dynamic Factor Model",
+    "MSVAR (Markov Switching Vector Autoregression) Model",
+    "Push-pull Framework",
+    "Theoretical Mechanism Framework",
+    "Time Series Analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Investment Management",
+    "Foreign Exchange"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Centuries of memory: Historical disasters and modern",
+  "authors": [
+    "Dongmin Yao",
+    "Aohan Xu"
+  ],
+  "keywords": [
+    "Historical disasters",
+    "Household saving rate",
+    "Risk preference",
+    "Cultural transmission",
+    "Precautionary saving"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel Data Analysis",
+    "Cultural Transmission Model",
+    "Mechanism Analysis",
+    "Robustness Tests",
+    "Heterogeneity Analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Banking/Savings",
+    "Disaster Management"
+  ],
+  "jel_codes": [
+    {
+      "code": "D91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q54",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

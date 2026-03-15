@@ -1,0 +1,70 @@
+{
+  "title": "Fintech, technological innovation and regional economic growth:",
+  "authors": [
+    "Xirong Huang"
+  ],
+  "keywords": [
+    "Fintech",
+    "Technological innovation",
+    "Economic growth",
+    "Endogenous growth model",
+    "Panel data analysis"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Multi-Sector Endogenous Growth Model (MEGM)",
+    "Panel Data Analysis",
+    "Theoretical Modeling",
+    "Heterogeneity Analysis",
+    "Creative Destruction Model"
+  ],
+  "industries": [
+    "Finance",
+    "Fintech",
+    "Banking",
+    "Digital Economy"
+  ],
+  "jel_codes": [
+    {
+      "code": "G20",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

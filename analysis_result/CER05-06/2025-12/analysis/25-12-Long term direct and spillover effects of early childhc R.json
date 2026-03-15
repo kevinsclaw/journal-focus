@@ -1,0 +1,68 @@
+{
+  "title": "Long-term direct and spillover effects of early",
+  "authors": [
+    "Yongming Luo",
+    "Liqiu Zhao"
+  ],
+  "keywords": [
+    "Early childhood immunization",
+    "Long-term effect",
+    "Within-sibling spillovers",
+    "Intrahousehold resource allocation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Quasi-experimental design",
+    "Panel data analysis",
+    "Intrahousehold resource allocation analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Public Health",
+    "Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D62",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

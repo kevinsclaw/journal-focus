@@ -1,0 +1,63 @@
+{
+  "title": "Journal Pre-proof",
+  "authors": [
+    "Journal Pre"
+  ],
+  "keywords": [
+    "Agro-based clusters",
+    "Government intervention",
+    "Ginger",
+    "China"
+  ],
+  "abstract": "This paper examines how local government interventions relate to the formation and upgrading of agro-based clusters (ACs) using the ginger industry in China as a case study. We employ a comparative, multi- county, multi-decade framework that integrates administrative records, county gazetteers, remote sensing imagery, and business registration data. A key innovation of our study is the use of a metrics-based stage classification system to assess the development of four case counties that, despit...",
+  "language": "en",
+  "methods": [
+    "Comparative case study analysis",
+    "Panel regression",
+    "Qualitative comparison",
+    "Multi-county framework",
+    "Metrics-based stage classification",
+    "Administrative records analysis",
+    "Remote sensing analysis",
+    "Business registration data analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Ginger farming",
+    "Agro-based clusters",
+    "Agricultural value chains",
+    "Food processing"
+  ],
+  "jel_codes": [
+    {
+      "code": "O13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Is government subsidy efficient? Evidence from SMEs’ automation",
+  "authors": [
+    "Xueling Yan"
+  ],
+  "keywords": [
+    "Automation",
+    "Subsidy",
+    "SMEs",
+    "Financing constraint"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Theoretical modeling",
+    "Enterprise Survey data analysis",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial robotics",
+    "Industrial automation"
+  ],
+  "jel_codes": [
+    {
+      "code": "D24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

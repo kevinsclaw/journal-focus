@@ -1,0 +1,63 @@
+{
+  "title": "Birds of a feather flock together? Gender differences in",
+  "authors": [
+    "James Alm"
+  ],
+  "keywords": [
+    "Homophily",
+    "Friendship formation",
+    "Risk preferences",
+    "Social preferences",
+    "Gender differences"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Field laboratory experiment",
+    "Behavioral experiments",
+    "Social network analysis",
+    "Preference elicitation experiments",
+    "Dyadic analysis"
+  ],
+  "industries": [
+    "Education",
+    "Higher Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "D85",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

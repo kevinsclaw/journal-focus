@@ -1,0 +1,70 @@
+{
+  "title": "The power of policy words: PBC communications and their impact",
+  "authors": [
+    "Yue Qiu"
+  ],
+  "keywords": [
+    "Central bank communication",
+    "International capital flows",
+    "Financial crisis",
+    "Textual analysis",
+    "Topic modeling"
+  ],
+  "abstract": "textual information using already constructed lexicons. However, the MPR, as a long report, usually involves the PBC’s attention to multiple macroeconomic topics, and a large amount of valid information will undoubtedly be lost by adopting the traditional approach. Finally, due to the essential linguistic differences between Chinese and English, the construction of the Chinese sentiment lexicon is more complicated, and different methods of lexicon construction may have a great impact on the resu...",
+  "language": "en",
+  "methods": [
+    "Semi-supervised machine learning",
+    "Topic modeling",
+    "Textual analysis",
+    "Natural language processing",
+    "TF-IDF algorithm",
+    "Sentiment analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Financial services",
+    "Capital markets"
+  ],
+  "jel_codes": [
+    {
+      "code": "D81",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

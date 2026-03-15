@@ -1,0 +1,55 @@
+{
+  "title": "Maturity mismatch and disinvestment as transmission",
+  "authors": [
+    "Lifang Hu"
+  ],
+  "keywords": [
+    "Macro EPU and firm perception of EPU",
+    "Firm performance",
+    "Maturity mismatch",
+    "Disinvestment",
+    "Sino–US trade friction"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Macro-micro data linkage analysis",
+    "Cross-sectional analysis",
+    "Longitudinal analysis"
+  ],
+  "industries": [
+    "Financial services",
+    "Manufacturing",
+    "Cross-border trade",
+    "State-owned enterprises",
+    "Private enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

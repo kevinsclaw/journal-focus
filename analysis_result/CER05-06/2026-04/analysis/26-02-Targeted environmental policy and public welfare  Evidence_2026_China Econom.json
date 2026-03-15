@@ -1,0 +1,75 @@
+{
+  "title": "Targeted environmental policy and public welfare: Evidence from",
+  "authors": [
+    "Jie Yang"
+  ],
+  "keywords": [
+    "Environmental policy",
+    "Fireworks deregulation",
+    "Public welfare",
+    "Cost-benefit analysis"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Cost-benefit analysis",
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Causal inference",
+    "Quantitative impact evaluation",
+    "Heterogeneous effects analysis"
+  ],
+  "industries": [
+    "Fireworks manufacturing",
+    "Retail (fireworks sales)",
+    "Environmental services",
+    "Cultural/Entertainment services"
+  ],
+  "jel_codes": [
+    {
+      "code": "C33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q50",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

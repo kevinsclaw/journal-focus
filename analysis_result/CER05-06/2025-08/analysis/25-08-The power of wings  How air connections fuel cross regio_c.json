@@ -1,0 +1,79 @@
+{
+  "title": "The power of wings: How air connections fuel cross-regional",
+  "authors": [
+    "Jiahui Chen"
+  ],
+  "keywords": [
+    "Air connectivity",
+    "Collaborative innovation",
+    "Urban innovation",
+    "Knowledge flows"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "DIDM estimation",
+    "Zero-Inflated Poisson (ZIP)",
+    "Zero-Inflated Negative Binomial (ZINB)",
+    "Instrumental Variables (IV)",
+    "Endogenous entry model"
+  ],
+  "industries": [
+    "Airlines/Aviation",
+    "Transportation",
+    "Railway"
+  ],
+  "jel_codes": [
+    {
+      "code": "O18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L93",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Gender earnings gap in Chinese firms: Can it be narrowed by",
+  "authors": [
+    "Yue Deng"
+  ],
+  "keywords": [
+    "Industrial robots",
+    "Gender earnings gap",
+    "Within-firm estimation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Ordinary Least Squares (OLS) regression",
+    "Unconditional quantile regression",
+    "Recentered influence functions (RIF)",
+    "Instrumental variable estimation",
+    "Within-firm estimation",
+    "Stratified random sampling"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial robotics"
+  ],
+  "jel_codes": [
+    {
+      "code": "J16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Decision-making as cognitive household labor: Higher education",
+  "authors": [
+    "Juan Yang",
+    "Lifang Zhang"
+  ],
+  "keywords": [
+    "Higher education expansion",
+    "Household decision-making",
+    "Allocation of household labor",
+    "Women empowerment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Quasi-experimental design",
+    "Heterogeneous analysis",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Higher Education",
+    "Labor Market"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J16",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

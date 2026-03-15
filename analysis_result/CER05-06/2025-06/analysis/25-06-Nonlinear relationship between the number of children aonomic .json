@@ -1,0 +1,76 @@
+{
+  "title": "Nonlinear relationship between the number of children and",
+  "authors": [
+    "Yuting Bai"
+  ],
+  "keywords": [
+    "Late-life cognition",
+    "Fertility",
+    "Aging",
+    "One-child policy",
+    "Later, longer, fewer campaign"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variables (IV)",
+    "Nonparametric IV",
+    "Quadratic IV",
+    "Linear modeling",
+    "Longitudinal analysis",
+    "Causal analysis",
+    "Theoretical complementarity analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Elder care",
+    "Social services"
+  ],
+  "jel_codes": [
+    {
+      "code": "I12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

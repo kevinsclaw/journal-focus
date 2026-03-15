@@ -1,0 +1,62 @@
+{
+  "title": "Inside job, Chinese style: Suspicious use of public funds under",
+  "authors": [
+    "Qun Bao"
+  ],
+  "keywords": [
+    "Fiscal pressure",
+    "Government audit",
+    "Public funds",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Difference (DID)",
+    "Natural Experiment",
+    "Empirical Analysis",
+    "Statistical Analysis"
+  ],
+  "industries": [
+    "Government/Public Sector",
+    "Agriculture",
+    "Public Finance"
+  ],
+  "jel_codes": [
+    {
+      "code": "H83",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "P37",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

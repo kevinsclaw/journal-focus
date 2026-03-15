@@ -1,0 +1,74 @@
+{
+  "title": "Measuring MPC heterogeneity in China: Insights from household",
+  "authors": [
+    "Yawen Gao"
+  ],
+  "keywords": [
+    "Marginal propensity to consume",
+    "Consumption heterogeneity",
+    "Household wealth",
+    "Hukou reform",
+    "Urbanization"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Euler equation regression",
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Heterogeneity analysis",
+    "Natural experiment"
+  ],
+  "industries": [
+    "Real Estate/Housing",
+    "Financial Services",
+    "Urban Development"
+  ],
+  "jel_codes": [
+    {
+      "code": "D12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

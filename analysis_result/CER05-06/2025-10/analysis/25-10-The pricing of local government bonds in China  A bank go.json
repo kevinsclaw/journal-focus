@@ -1,0 +1,56 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Local government bonds",
+    "Bank-government relationship",
+    "Bond pricing",
+    "Debt management"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Natural experiment analysis",
+    "Difference-in-differences (DID)",
+    "Econometric regression analysis",
+    "Propensity Score Matching (PSM)",
+    "Robustness testing",
+    "Mechanism analysis",
+    "Heterogeneity analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Public Finance",
+    "Government/Public Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "E62",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

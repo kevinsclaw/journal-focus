@@ -1,0 +1,70 @@
+{
+  "title": "Identifying waste leakage: Behavioral responses to China’s",
+  "authors": [
+    "Lue Zhan"
+  ],
+  "keywords": [
+    "Municipal solid waste",
+    "consumer behavioral responses",
+    "waste generation",
+    "waste leakage"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Computer-automated data extraction",
+    "Cost-benefit analysis",
+    "Heterogeneity analysis",
+    "Statistical analysis of panel data"
+  ],
+  "industries": [
+    "Waste Management",
+    "E-commerce Retail",
+    "Environmental Services",
+    "Plastic Manufacturing",
+    "Home Appliances Manufacturing"
+  ],
+  "jel_codes": [
+    {
+      "code": "D91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q4",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

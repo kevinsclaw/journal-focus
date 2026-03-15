@@ -1,0 +1,59 @@
+{
+  "title": "How do very small businesses survive in a rent-seeking society?",
+  "authors": [
+    "Yongjing Zhang"
+  ],
+  "keywords": [
+    "Entrepreneurship",
+    "Institution",
+    "Political economy",
+    "Rent seeking",
+    "Very small business"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Survey research",
+    "Cross-sectional analysis",
+    "Regional data analysis",
+    "Descriptive statistics",
+    "Attitude surveys",
+    "Random sampling",
+    "Empirical analysis with control variables",
+    "Institutional analysis"
+  ],
+  "industries": [
+    "Technology",
+    "Service industries",
+    "Catering",
+    "Small retail/commerce",
+    "Government services"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

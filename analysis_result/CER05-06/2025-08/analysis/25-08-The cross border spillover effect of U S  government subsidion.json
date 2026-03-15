@@ -1,0 +1,52 @@
+{
+  "title": "The cross-border spillover effect of U.S. government subsidies on",
+  "authors": [
+    "Beibei Hu"
+  ],
+  "keywords": [
+    "U.S. government subsidies",
+    "Firms’ innovation",
+    "Sino-US supply chain",
+    "Cross-border spillover effect"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Multi-period difference-in-differences (DID)",
+    "Empirical analysis",
+    "Supply chain analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Renewable energy",
+    "Technology",
+    "Industrial production"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

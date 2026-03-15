@@ -1,0 +1,51 @@
+{
+  "title": "Publish or perish: Up-or-out rules and research performance",
+  "authors": [
+    "Bingyan Yang"
+  ],
+  "keywords": [
+    "Up-or-out rules",
+    "Research performance",
+    "Synthetic control method",
+    "University"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Synthetic Control Method (SCM)",
+    "Causal Analysis",
+    "Counterfactual Analysis",
+    "Robustness Testing"
+  ],
+  "industries": [
+    "Higher Education",
+    "Academic Research"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

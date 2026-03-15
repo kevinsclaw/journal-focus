@@ -1,0 +1,53 @@
+{
+  "title": "Socioeconomic status and inequalities in early development of",
+  "authors": [
+    "Dongqin Wang"
+  ],
+  "keywords": [
+    "Early childhood development",
+    "Decision tree",
+    "Human capital",
+    "Non-cognitive skills",
+    "Socioeconomic status (SES)"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "OLS (Ordinary Least Squares)",
+    "Fixed Effects Models",
+    "Machine Learning - Decision Trees",
+    "Survey Research",
+    "ASQ:SE (Ages and Stages Questionnaire: Social-Emotional) Assessment"
+  ],
+  "industries": [
+    "Education",
+    "Early Childhood Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Digital financial inclusion and middle-income group vulnerability",
+  "authors": [
+    "Yulin Liu"
+  ],
+  "keywords": [
+    "Digital financial inclusion",
+    "Vulnerability of the middle-income group",
+    "Household entrepreneurship",
+    "Participation in financial markets"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Microdata analysis",
+    "Prospective prediction modeling",
+    "Marginal effects analysis"
+  ],
+  "industries": [
+    "Financial Services",
+    "Digital Banking",
+    "Household Entrepreneurship"
+  ],
+  "jel_codes": [
+    {
+      "code": "G21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

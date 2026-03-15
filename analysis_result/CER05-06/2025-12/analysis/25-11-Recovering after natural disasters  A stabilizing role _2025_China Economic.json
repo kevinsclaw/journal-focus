@@ -1,0 +1,49 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Post-disaster recovery",
+    "Corporate performance",
+    "Government intervention",
+    "SOEs"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (comparing exposed vs non-exposed firms)",
+    "Mechanism analysis",
+    "Empirical analysis",
+    "Case study (2008 Sichuan earthquake)",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Banking/Financial Services",
+    "State-owned enterprises (SOEs)",
+    "Construction/Infrastructure",
+    "Government/Public sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Research article",
+  "authors": [
+    "Feifei Wu"
+  ],
+  "keywords": [
+    "Services liberalization",
+    "Functional specialization",
+    "Fabrication",
+    "R&D"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Input-output analysis",
+    "Instrumental Variables (IV)",
+    "Value-added measurement",
+    "Endogeneity correction",
+    "Cross-country comparison"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Business Services",
+    "Telecommunications",
+    "Financial Services",
+    "Transportation",
+    "Media",
+    "Research & Development"
+  ],
+  "jel_codes": [
+    {
+      "code": "F21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F43",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L8",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

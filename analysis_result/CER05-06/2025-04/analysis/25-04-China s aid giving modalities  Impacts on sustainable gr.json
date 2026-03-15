@@ -1,0 +1,57 @@
+{
+  "title": "China’s aid-giving modalities: Impacts on sustainable growth in",
+  "authors": [
+    "Xu Shao"
+  ],
+  "keywords": [
+    "Aid-giving modalities",
+    "China-Africa trade",
+    "Industry linkages",
+    "Industrial development",
+    "Production-oriented aid"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Regression analysis",
+    "Instrumental Variables",
+    "Multi-dimensional data analysis",
+    "Industrial ecology analysis",
+    "Robustness checks",
+    "Heterogeneity tests"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Infrastructure",
+    "International Trade",
+    "Production/Processing",
+    "Finance"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

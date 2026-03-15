@@ -1,0 +1,64 @@
+{
+  "title": "Information, pollution, and cognition: The impact of air pollution",
+  "authors": [
+    "Shaohui Wu"
+  ],
+  "keywords": [
+    "Pollution information disclosure",
+    "Cognitive performance",
+    "PM2.5",
+    "Environmental awareness",
+    "Health-related behaviors"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Fixed Effects Models",
+    "Event Study Design",
+    "Quasi-experimental Analysis",
+    "Longitudinal Data Analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Environmental Services",
+    "Public Health"
+  ],
+  "jel_codes": [
+    {
+      "code": "I12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

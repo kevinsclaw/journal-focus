@@ -1,0 +1,69 @@
+{
+  "title": "Carbon regulatory risk exposure in the bond market: A",
+  "authors": [
+    "Peng Zhou"
+  ],
+  "keywords": [
+    "Carbon regulatory risk",
+    "Carbon peaking and carbon neutrality",
+    "Corporate bond yield spread",
+    "Default spread",
+    "Liquidity spread"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-difference-in-differences (DDD)",
+    "Quasi-natural experiment",
+    "Cross-sectional analysis",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Bond market/Financial services",
+    "Carbon-intensive industries",
+    "Banking/Credit markets",
+    "Derivative markets"
+  ],
+  "jel_codes": [
+    {
+      "code": "G32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

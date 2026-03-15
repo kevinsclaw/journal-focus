@@ -1,0 +1,53 @@
+{
+  "title": "China Economic Review 90 (2025) 102366",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Geopolitical tensions",
+    "Systemic financial risk",
+    "TVP-VAR-SV",
+    "Channel decomposition",
+    "Channels’ time-varying effect"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "TVP-VAR-SV (Time-Varying Parameter Vector Autoregressive model with Stochastic Volatility)",
+    "SHAP (SHapley Additive exPlanations)",
+    "Channel decomposition analysis",
+    "Network analysis",
+    "MCMC (Markov Chain Monte Carlo Simulation)",
+    "Machine learning"
+  ],
+  "industries": [
+    "Financial Services",
+    "Banking",
+    "Foreign Exchange",
+    "Stock Market",
+    "Bond Market",
+    "International Trade"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

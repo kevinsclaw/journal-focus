@@ -1,0 +1,57 @@
+{
+  "title": "More than a new campus: University’s spatial expansion,",
+  "authors": [
+    "Xiuyan Liu"
+  ],
+  "keywords": [
+    "New campus",
+    "University externality",
+    "Knowledge spillover",
+    "Knowledge cluster",
+    "Innovation cluster"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Difference (DID)",
+    "Quasi-experimental design",
+    "Causal inference",
+    "Knowledge production function",
+    "Geocoded dataset analysis",
+    "Time-varying DID"
+  ],
+  "industries": [
+    "Higher Education",
+    "Technology Parks",
+    "Research & Development",
+    "Science Parks",
+    "Innovation Clusters"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

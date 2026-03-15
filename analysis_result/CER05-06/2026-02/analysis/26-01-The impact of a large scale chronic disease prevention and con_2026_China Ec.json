@@ -1,0 +1,55 @@
+{
+  "title": "The impact of a large-scale chronic disease prevention and control",
+  "authors": [
+    "Qingshan Ma"
+  ],
+  "keywords": [
+    "National Demonstration Zones for",
+    "comprehensive chronic disease prevention and",
+    "control",
+    "Chronic disease prevention and control",
+    "Elderly health",
+    "Medical expenses"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered Difference-in-Differences (DID)",
+    "Natural Experiment",
+    "Quasi-experimental design",
+    "Heterogeneity analysis",
+    "Cost-benefit analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Public Health",
+    "Medical Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

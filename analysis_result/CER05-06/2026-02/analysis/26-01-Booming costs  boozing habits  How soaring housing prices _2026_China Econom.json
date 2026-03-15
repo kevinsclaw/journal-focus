@@ -1,0 +1,68 @@
+{
+  "title": "Booming costs, boozing habits: How soaring housing prices drive",
+  "authors": [
+    "Jiao Wang"
+  ],
+  "keywords": [
+    "Rising housing prices",
+    "Stress relief",
+    "Smoking",
+    "Excessive drinking"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variable (IV) Model",
+    "Empirical Analysis",
+    "Statistical Analysis",
+    "Mechanism Analysis"
+  ],
+  "industries": [
+    "Real Estate",
+    "Tobacco",
+    "Alcohol/Beverages",
+    "Healthcare"
+  ],
+  "jel_codes": [
+    {
+      "code": "I12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

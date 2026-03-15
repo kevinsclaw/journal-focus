@@ -1,0 +1,68 @@
+{
+  "title": "The impact of National Volume-Based Procurement policy on",
+  "authors": [
+    "Yiru Wang"
+  ],
+  "keywords": [
+    "Healthcare expenditure",
+    "Price change",
+    "Provider responses",
+    "Time regression discontinuity"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Time Regression Discontinuity (RD)",
+    "Statistical Analysis of Healthcare Records",
+    "Dynamic Analysis",
+    "Physician Behavior Model"
+  ],
+  "industries": [
+    "Healthcare",
+    "Medical Devices",
+    "Health Insurance",
+    "Pharmaceutical"
+  ],
+  "jel_codes": [
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

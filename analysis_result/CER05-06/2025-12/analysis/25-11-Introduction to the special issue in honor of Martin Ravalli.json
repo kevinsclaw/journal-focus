@@ -1,0 +1,50 @@
+{
+  "title": "Introduction to the special issue in honor of Martin Ravallion:",
+  "authors": [
+    "Editorial\nIntroduction"
+  ],
+  "keywords": [],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Policy evaluation",
+    "Empirical analysis",
+    "Quota-based analysis"
+  ],
+  "industries": [
+    "Education",
+    "Finance",
+    "Real Estate/Housing",
+    "Manufacturing/Industrial Robotics",
+    "Digital Finance",
+    "Corporate/Private Sector",
+    "Public Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "External trade policy uncertainty, corporate risk exposure, and",
+  "authors": [
+    "Hongkui Liu"
+  ],
+  "keywords": [
+    "Trade policy uncertainty",
+    "Risk exposure",
+    "Stock market stability",
+    "Market sentiment",
+    "Corporate performance"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Regression analysis",
+    "Event analysis",
+    "Time series analysis",
+    "Big data analysis",
+    "Monthly rolling regressions",
+    "Short-term and long-term impact analysis",
+    "Robustness testing"
+  ],
+  "industries": [
+    "Finance",
+    "International Trade",
+    "Manufacturing",
+    "Stock Market",
+    "Research & Development",
+    "Export-Import"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "The impact of anti-corruption on migration and family welfare",
+  "authors": [
+    "Mengyue Zhang",
+    "Siyan Tang"
+  ],
+  "keywords": [
+    "Anti-corruption",
+    "Migration",
+    "Government subsidies",
+    "Social identity",
+    "Left-behind children"
+  ],
+  "abstract": "=3086286. M. Zhang et al. China Economic Review 93 (2025) 102492 7 a binary variable that equals 1 if a household’s actual place of residence is in a town and 0 otherwise. Family size is defined as the number of members who share the same household. Number of children refers to the number of children under 16 years old in the household. In addition to family-level characteristics, we also control for the demographic characteristics of the household head. In most Chinese families, influenced by c...",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID) with intensity treatment",
+    "Panel data analysis",
+    "Survey data analysis",
+    "Push-pull theory application",
+    "Comparative regional analysis"
+  ],
+  "industries": [
+    "Government/Public Sector",
+    "Education",
+    "Healthcare",
+    "Rural Agriculture",
+    "Public Infrastructure"
+  ],
+  "jel_codes": [
+    {
+      "code": "D73",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J61",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Journal Pre-proof",
+  "authors": [
+    "Journal Pre"
+  ],
+  "keywords": [
+    "Cultural diversity",
+    "Inter-urban migrant network",
+    "Urban entrepreneurship",
+    "China"
+  ],
+  "abstract": "While a robust relationship between cultural diversity and entrepreneurship is established in Western economies, this relationship remains underexplored in China. This article challenges the prevailing view of China as a “singular culture economy” by quantifying China’s cultural diversity introduced by its varied regional cultures and massive internal migration. Leveraging migrants’ ancestral dialects and foodways to construct dynamic diversity measures, we identify the causal impact of cultural...",
+  "language": "en",
+  "methods": [
+    "Instrumental Variable (IV) approach",
+    "Knowledge Spillover Theory of Entrepreneurship (KSTE)",
+    "Quantitative analysis of cultural diversity measures",
+    "Mechanism tests"
+  ],
+  "industries": [
+    "Venture Capital",
+    "Urban entrepreneurship/startups"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

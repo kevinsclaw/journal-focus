@@ -1,0 +1,51 @@
+{
+  "title": "Does party organization construction improve chinese banks’",
+  "authors": [
+    "Lu Wei"
+  ],
+  "keywords": [
+    "Bank risk",
+    "Textual analysis",
+    "Corporate governance",
+    "Party organization construction"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Textual Analysis",
+    "Statistical Analysis",
+    "Corporate Governance Analysis",
+    "Panel Data Analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

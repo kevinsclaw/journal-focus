@@ -1,0 +1,73 @@
+{
+  "title": "The impact of environmental concern on cross-regional",
+  "authors": [
+    "Qilin Mao"
+  ],
+  "keywords": [
+    "Environmental concern",
+    "New energy enterprises",
+    "Cross-regional investment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Control function approach",
+    "Instrumental Variables (IV)",
+    "Empirical analysis with panel data",
+    "Robustness checks",
+    "Sample restrictions analysis"
+  ],
+  "industries": [
+    "New Energy Vehicles",
+    "Automotive supply chain",
+    "Clean/Renewable Energy",
+    "Manufacturing"
+  ],
+  "jel_codes": [
+    {
+      "code": "D22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D25",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q56",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Fiscal decentralization and food production: Evidence from",
+  "authors": [
+    "Hongqi Ma"
+  ],
+  "keywords": [
+    "Province-Managing-County reform",
+    "Food production",
+    "Fiscal self-sufficiency",
+    "Transfer payments"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Theoretical mechanism analysis"
+  ],
+  "industries": [
+    "Agriculture (specifically food production)",
+    "Public sector/Government"
+  ],
+  "jel_codes": [
+    {
+      "code": "D24",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O47",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "The bad neighborhood effect: Supply chain disruptions arising",
+  "authors": [
+    "Haoyuan Ding"
+  ],
+  "keywords": [
+    "Civil conflict",
+    "Economic development",
+    "Global supply chain",
+    "Natural resource",
+    "African economy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Fixed Effects Regression",
+    "Binary Regression Model",
+    "Dynamic Effects Analysis",
+    "Geographic Spillover Analysis",
+    "Panel Data Analysis",
+    "Empirical Analysis"
+  ],
+  "industries": [
+    "Natural Resources",
+    "Transportation/Logistics",
+    "Manufacturing",
+    "Global Supply Chain",
+    "Government/Public Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "F0",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F5",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F6",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

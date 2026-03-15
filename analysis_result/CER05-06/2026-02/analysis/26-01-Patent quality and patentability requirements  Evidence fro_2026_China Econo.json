@@ -1,0 +1,65 @@
+{
+  "title": "Patent quality and patentability requirements: Evidence from the",
+  "authors": [
+    "Teng Huang"
+  ],
+  "keywords": [
+    "Patentability requirements",
+    "Patent quality",
+    "Relative novelty",
+    "Absolute novelty",
+    "Patent law reforms"
+  ],
+  "abstract": "from the potential long-term effects of patent law amendments on innovation capacity improvement within China. T. Huang and C.X. Long China Economic Review 95 (2026) 102643 5 4. Empirical research design 4.",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Quasi-natural experiment",
+    "Empirical analysis",
+    "Causal analysis",
+    "Robustness testing"
+  ],
+  "industries": [
+    "Pharmaceuticals",
+    "Agriculture",
+    "Technology/Innovation",
+    "Legal/Intellectual Property"
+  ],
+  "jel_codes": [
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O34",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "The missing rich households and wealth polarization in 21st",
+  "authors": [
+    "Yangcheng Yu"
+  ],
+  "keywords": [
+    "Wealth polarization",
+    "Wealth inequality",
+    "The missing rich",
+    "Power-law model"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Power-law model",
+    "Decomposition analysis",
+    "Identification and alienation framework",
+    "Simulation analysis",
+    "Survey data analysis",
+    "Two-step empirical approach"
+  ],
+  "industries": [
+    "Finance",
+    "Wealth Management",
+    "Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "C81",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E25",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

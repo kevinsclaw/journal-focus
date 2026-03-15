@@ -1,0 +1,74 @@
+{
+  "title": "Private school, off-campus academic class and public school",
+  "authors": [
+    "Han Feng"
+  ],
+  "keywords": [
+    "Housing prices",
+    "Public school premiums",
+    "Private schools",
+    "Shadow education"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Natural Experiment",
+    "Difference-in-Differences (implied by comparing pre/post reform)",
+    "Robustness Tests",
+    "Spatial Analysis",
+    "Matching Analysis"
+  ],
+  "industries": [
+    "Real Estate/Housing",
+    "Education (Public Schools)",
+    "Education (Private Schools)",
+    "Education Services (Tutoring/Shadow Education)"
+  ],
+  "jel_codes": [
+    {
+      "code": "R21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H44",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

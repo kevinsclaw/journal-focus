@@ -1,0 +1,54 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Monetary policy expectation",
+    "Narrative economics",
+    "Textual analysis"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "BERT (Bidirectional Encoder Representations from Transformers)",
+    "LDA (Latent Dirichlet Allocation) topic modeling",
+    "Neural Networks with dropout layers",
+    "Time-varying parameter vector autoregression",
+    "Semantic analysis",
+    "Text classification",
+    "Manual annotation/labeling"
+  ],
+  "industries": [
+    "Banking",
+    "News Media",
+    "Financial Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "E52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D83",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

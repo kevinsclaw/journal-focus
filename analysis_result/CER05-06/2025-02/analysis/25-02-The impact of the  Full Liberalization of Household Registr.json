@@ -1,0 +1,57 @@
+{
+  "title": "The impact of the “Full Liberalization of Household Registration”",
+  "authors": [
+    "Shan Hu",
+    "Nan Jia"
+  ],
+  "keywords": [
+    "Full liberalization of household registration",
+    "Rural labor force",
+    "Free migration"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Regression Discontinuity Design (RDD)",
+    "Difference-in-Differences (DID)",
+    "RD-DID (Combined approach)",
+    "Manual document analysis",
+    "Survey data analysis",
+    "Quasi-experimental design"
+  ],
+  "industries": [
+    "Labor/Employment",
+    "Public Services",
+    "Healthcare",
+    "Education",
+    "Urban Development",
+    "Agriculture"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "From social networks to sustainable solutions: Unpacking the",
+  "authors": [
+    "Yuanshun Li"
+  ],
+  "keywords": [
+    "Social capital",
+    "Green innovation",
+    "ESG",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Index construction methodology",
+    "Longitudinal dataset analysis",
+    "Mechanism analysis",
+    "Statistical significance testing",
+    "ESG ratings analysis"
+  ],
+  "industries": [
+    "Electric Vehicles",
+    "New Energy",
+    "Manufacturing",
+    "Financial Services",
+    "Green Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "G41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O35",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q55",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

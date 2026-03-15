@@ -1,0 +1,47 @@
+{
+  "title": "Social norms alleviate the disadvantaged positions of elderly",
+  "authors": [
+    "Xinrui Wu"
+  ],
+  "keywords": [
+    "Charitable giving",
+    "Social norms",
+    "Discrete choice experiment",
+    "Survey experiment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Discrete Choice Experiment",
+    "Survey Experiment",
+    "Information Intervention",
+    "Social Norms Analysis"
+  ],
+  "industries": [
+    "Charitable/Non-profit",
+    "Healthcare",
+    "Social Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

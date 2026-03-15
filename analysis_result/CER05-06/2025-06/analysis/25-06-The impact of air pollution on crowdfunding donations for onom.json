@@ -1,0 +1,70 @@
+{
+  "title": "The impact of air pollution on crowdfunding donations for critical",
+  "authors": [
+    "Sheng Hua"
+  ],
+  "keywords": [
+    "Air pollution",
+    "Crowdfunding donations for critical illnesses",
+    "Emotion",
+    "Attention",
+    "Trust"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Regression analysis",
+    "Non-linear effects analysis",
+    "Data matching",
+    "Empirical analysis",
+    "Baseline regression"
+  ],
+  "industries": [
+    "Healthcare",
+    "Crowdfunding platforms",
+    "Medical services",
+    "Social media"
+  ],
+  "jel_codes": [
+    {
+      "code": "D64",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

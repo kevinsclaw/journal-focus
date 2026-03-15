@@ -1,0 +1,72 @@
+{
+  "title": "Unveiling the impact and mechanism of agricultural input",
+  "authors": [
+    "Yun Shen"
+  ],
+  "keywords": [
+    "Agricultural inputs",
+    "Income mobility",
+    "Income polarization",
+    "Rural households, China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data econometric modeling",
+    "Multi-level differentiated polarization index",
+    "Shapley value decomposition",
+    "Mediation analysis",
+    "Balanced panel dataset analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Rural labor/employment"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C5",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O47",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

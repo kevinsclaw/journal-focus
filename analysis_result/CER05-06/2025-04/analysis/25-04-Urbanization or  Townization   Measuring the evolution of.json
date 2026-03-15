@@ -1,0 +1,50 @@
+{
+  "title": "China Economic Review 90 (2025) 102368",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Urbanization",
+    "Townization",
+    "Urban systems",
+    "Economic development"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Remote sensing data analysis",
+    "Zipf's law distribution analysis",
+    "Population threshold classification",
+    "Spatial data analysis",
+    "Urban settlement pattern analysis",
+    "Land use classification"
+  ],
+  "industries": [
+    "Urban development",
+    "Real estate",
+    "Construction",
+    "Infrastructure"
+  ],
+  "jel_codes": [
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

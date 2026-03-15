@@ -1,0 +1,55 @@
+{
+  "title": "Does policy uncertainty affect firms’ exchange rate exposure?",
+  "authors": [
+    "Qing He"
+  ],
+  "keywords": [
+    "Economic policy uncertainty (EPU)",
+    "International operation",
+    "Corporate governance",
+    "Hedging"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Vector Autoregression (VAR)",
+    "Panel Data Analysis",
+    "Regression Analysis",
+    "Endogeneity Controls",
+    "Robustness Tests"
+  ],
+  "industries": [
+    "Telecommunications",
+    "International Trade",
+    "Financial Services",
+    "Manufacturing",
+    "Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

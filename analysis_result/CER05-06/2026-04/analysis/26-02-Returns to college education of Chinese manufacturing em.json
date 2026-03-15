@@ -1,0 +1,53 @@
+{
+  "title": "Returns to college education of Chinese manufacturing employees:",
+  "authors": [
+    "Yuheng Lin"
+  ],
+  "keywords": [
+    "China employer-employee survey",
+    "Manufacturing industry",
+    "Marginal treatment effect",
+    "Returns to college education"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Two-Stage Least Squares (2SLS)",
+    "Ordinary Least Squares (OLS)",
+    "Instrumental Variables (IV)",
+    "Marginal Treatment Effect (MTE)",
+    "Local Average Treatment Effect (LATE)",
+    "Fixed Effects"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Small and Medium-sized Enterprises (SMEs)"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

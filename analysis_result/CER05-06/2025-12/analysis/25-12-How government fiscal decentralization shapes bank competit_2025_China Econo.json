@@ -1,0 +1,73 @@
+{
+  "title": "How government fiscal decentralization shapes bank competition",
+  "authors": [
+    "Chenzi Yang"
+  ],
+  "keywords": [
+    "Chinese fiscal decentralization",
+    "Bank market power",
+    "Bank competition",
+    "Bankruptcy courts"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Baseline regression analysis",
+    "Panel data analysis",
+    "Empirical analysis",
+    "Heterogeneity analysis",
+    "Long-term effect analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Public Administration/Government"
+  ],
+  "jel_codes": [
+    {
+      "code": "H77",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H72",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

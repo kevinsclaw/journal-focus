@@ -1,0 +1,73 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Peer composition",
+    "Contact theory",
+    "Inter-group relationship",
+    "Internal migrants",
+    "Randomisation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Fixed Effects Model",
+    "Random Assignment Analysis",
+    "Survey Data Analysis",
+    "Causal Effect Analysis",
+    "Within-grade-by-school variation analysis"
+  ],
+  "industries": [
+    "Education",
+    "Public Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "I21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Z13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

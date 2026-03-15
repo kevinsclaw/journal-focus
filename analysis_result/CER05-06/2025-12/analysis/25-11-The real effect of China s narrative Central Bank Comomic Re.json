@@ -1,0 +1,49 @@
+{
+  "title": "The real effect of China’s narrative Central Bank Communication",
+  "authors": [
+    "Liangyuan Chen"
+  ],
+  "keywords": [
+    "Central bank communication",
+    "Monetary policy effectiveness",
+    "Expectations management",
+    "Natural language processing"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Latent Dirichlet Allocation (LDA) topic model",
+    "Mixed-frequency time-varying parameter factor-augmented VAR (MF-TVP-FAVAR)",
+    "Vector autoregression (VAR)",
+    "Natural Language Processing (NLP)",
+    "Controlled experiments",
+    "Variance decomposition"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Central Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

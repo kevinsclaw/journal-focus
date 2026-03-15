@@ -1,0 +1,56 @@
+{
+  "title": "Does digital finance affect energy consumption structure",
+  "authors": [
+    "Debao Hu"
+  ],
+  "keywords": [
+    "Digital finance",
+    "Household energy consumption",
+    "Energy upgrading",
+    "Chinese rural households"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Generalized Method of Moments (GMM)",
+    "Instrumental Variable (IV)",
+    "Survey Data Analysis",
+    "Empirical Modeling",
+    "Mechanism Analysis",
+    "Heterogeneity Analysis"
+  ],
+  "industries": [
+    "Finance (Digital Finance)",
+    "Energy",
+    "Rural Agriculture",
+    "Banking",
+    "Digital Payments"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

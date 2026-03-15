@@ -1,0 +1,70 @@
+{
+  "title": "Research article",
+  "authors": [
+    "Yangcheng Yu"
+  ],
+  "keywords": [
+    "Resource share",
+    "Child poverty",
+    "Collective household model",
+    "Left-behind and non-left-behind children",
+    "Rural China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "DLP model (Dunbar-Lewbel-Pendakur model)",
+    "Engel's food share method",
+    "Rothbarth's adult good method",
+    "Collective household model",
+    "Per-capita calculations",
+    "Budget share analysis",
+    "Cross-household comparison analysis"
+  ],
+  "industries": [
+    "Agriculture (Rural sector)",
+    "Healthcare (Medical treatment expenditure)"
+  ],
+  "jel_codes": [
+    {
+      "code": "D12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

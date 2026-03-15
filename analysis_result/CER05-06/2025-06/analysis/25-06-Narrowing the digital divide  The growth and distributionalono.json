@@ -1,0 +1,71 @@
+{
+  "title": "Narrowing the digital divide: The growth and distributional effect",
+  "authors": [
+    "Tianyu Huang",
+    "Yiyue Quan"
+  ],
+  "keywords": [
+    "Internet use",
+    "Rural household income",
+    "Income inequality",
+    "Digital divide",
+    "Inclusive growth"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Propensity Score Matching (PSM)",
+    "Instrumental Variables (IV)",
+    "Unconditional Quantile Regression (UQR)",
+    "Panel Data Analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Telecommunications",
+    "Digital Economy",
+    "Rural Development"
+  ],
+  "jel_codes": [
+    {
+      "code": "O15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

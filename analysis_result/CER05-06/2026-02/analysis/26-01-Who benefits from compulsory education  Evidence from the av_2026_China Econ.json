@@ -1,0 +1,79 @@
+{
+  "title": "Who benefits from compulsory education? Evidence from the",
+  "authors": [
+    "Yucheng Sun"
+  ],
+  "keywords": [
+    "Education",
+    "Migrants",
+    "Welfare",
+    "Marginal treatment effect",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Marginal Treatment Effect (MTE)",
+    "Instrumental Variables (IV)",
+    "Two-Stage Least Squares (2SLS)",
+    "Counterfactual Analysis",
+    "Policy Simulation"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Wholesale and Retail Trade",
+    "Hotels and Catering Services",
+    "Household Services and Repair",
+    "Education",
+    "Scientific Research Services",
+    "Financial Services",
+    "Public Administration"
+  ],
+  "jel_codes": [
+    {
+      "code": "I26",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

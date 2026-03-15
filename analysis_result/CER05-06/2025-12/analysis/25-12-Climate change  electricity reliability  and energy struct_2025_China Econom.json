@@ -1,0 +1,55 @@
+{
+  "title": "Climate change, electricity reliability, and energy structure:",
+  "authors": [
+    "Mingwei Yu"
+  ],
+  "keywords": [
+    "Climate change",
+    "Electricity reliability",
+    "Energy structure"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Econometric analysis",
+    "Satellite data analysis",
+    "Panel data analysis",
+    "Proxy variable construction",
+    "Heterogeneity analysis"
+  ],
+  "industries": [
+    "Energy/Power generation",
+    "Renewable energy",
+    "Thermal power",
+    "Solar power",
+    "Wind power",
+    "Utilities (electricity)"
+  ],
+  "jel_codes": [
+    {
+      "code": "C5",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q2",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q4",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q41",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

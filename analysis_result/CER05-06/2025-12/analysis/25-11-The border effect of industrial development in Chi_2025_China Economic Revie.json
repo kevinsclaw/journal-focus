@@ -1,0 +1,67 @@
+{
+  "title": "The border effect of industrial development in China☆",
+  "authors": [
+    "Siru Chen"
+  ],
+  "keywords": [
+    "Border effect",
+    "Land allocation",
+    "Land transaction",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Empirical analysis",
+    "Mechanism analysis",
+    "Heterogeneity testing",
+    "Hypothesis testing"
+  ],
+  "industries": [
+    "Industrial manufacturing",
+    "Real estate/Land development"
+  ],
+  "jel_codes": [
+    {
+      "code": "R14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

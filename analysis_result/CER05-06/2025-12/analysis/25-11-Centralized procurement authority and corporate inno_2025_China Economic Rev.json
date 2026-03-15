@@ -1,0 +1,81 @@
+{
+  "title": "Centralized procurement authority and corporate innovation",
+  "authors": [
+    "Xiao Jia"
+  ],
+  "keywords": [
+    "Centralized procurement authority",
+    "Corporate innovation",
+    "National Healthcare Security Administration",
+    "Product market competition",
+    "Business strategy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Causal Inference",
+    "Parallel Trends Analysis",
+    "Placebo Tests",
+    "Manual Data Adjustment"
+  ],
+  "industries": [
+    "Pharmaceuticals",
+    "Healthcare",
+    "Chemical Manufacturing",
+    "Traditional Chinese Medicine",
+    "Medical Equipment"
+  ],
+  "jel_codes": [
+    {
+      "code": "I11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Learning from winning firms: Government innovation",
+  "authors": [
+    "Hui Jiang"
+  ],
+  "keywords": [
+    "Government innovation procurement",
+    "Peer innovation efficiency",
+    "Procured firms",
+    "Knowledge spillover",
+    "Patent citation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Textual analysis",
+    "Patent citation analysis",
+    "Knowledge spillover analysis",
+    "Signal theory analysis",
+    "Heterogeneity analysis"
+  ],
+  "industries": [
+    "High-tech",
+    "Government procurement",
+    "Research & Development",
+    "Transportation (High-speed rail)"
+  ],
+  "jel_codes": [
+    {
+      "code": "D83",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

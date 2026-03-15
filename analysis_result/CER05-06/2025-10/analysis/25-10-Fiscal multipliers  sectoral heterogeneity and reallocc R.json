@@ -1,0 +1,73 @@
+{
+  "title": "Fiscal multipliers, sectoral heterogeneity and reallocation in China",
+  "authors": [
+    "Ying He"
+  ],
+  "keywords": [
+    "Fiscal multipliers",
+    "Sectoral heterogeneity",
+    "Factor reallocation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Bayesian SVAR (BSVAR) model",
+    "Two-sector theoretical model",
+    "Sign restrictions identification",
+    "Recursive identification"
+  ],
+  "industries": [
+    "Heavy industry (capital-intensive)",
+    "Light industry (labor-intensive)",
+    "Infrastructure",
+    "State-owned enterprises (SOEs)",
+    "Private-owned enterprises (POEs)"
+  ],
+  "jel_codes": [
+    {
+      "code": "E30",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E62",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

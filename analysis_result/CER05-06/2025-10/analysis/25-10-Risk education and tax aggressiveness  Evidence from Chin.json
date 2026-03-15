@@ -1,0 +1,58 @@
+{
+  "title": "Risk education and tax aggressiveness: Evidence from China’s",
+  "authors": [
+    "Zhifang Su"
+  ],
+  "keywords": [
+    "Tax aggressiveness",
+    "Auditor education",
+    "Corporate governance",
+    "CPA reform",
+    "Regulatory compliance"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Quasi-natural experiment",
+    "Regression discontinuity design",
+    "Propensity score matching (PSM)",
+    "Entropy balancing",
+    "Placebo tests",
+    "Fixed effects regression",
+    "Difference-in-differences (implied by research design)",
+    "Empirical analysis with panel data"
+  ],
+  "industries": [
+    "Accounting/Auditing",
+    "Financial Services",
+    "Professional Services",
+    "Tax Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

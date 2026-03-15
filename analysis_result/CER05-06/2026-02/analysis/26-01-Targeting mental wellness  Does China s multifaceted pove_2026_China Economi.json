@@ -1,0 +1,52 @@
+{
+  "title": "Targeting mental wellness: Does China’s multifaceted poverty",
+  "authors": [
+    "Dezhuang Hu"
+  ],
+  "keywords": [
+    "Targeted poverty alleviation",
+    "Mental health",
+    "Multifaceted anti-poverty program"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Cost-benefit analysis",
+    "Heterogeneous analysis",
+    "Robustness checks"
+  ],
+  "industries": [
+    "Healthcare",
+    "Social Services",
+    "Public Administration"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

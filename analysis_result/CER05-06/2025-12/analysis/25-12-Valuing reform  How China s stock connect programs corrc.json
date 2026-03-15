@@ -1,0 +1,80 @@
+{
+  "title": "Valuing reform: How China’s stock connect programs correct",
+  "authors": [
+    "Yimin Shan",
+    "Yang Chen"
+  ],
+  "keywords": [
+    "Capital market liberalization",
+    "Firm Misvaluation",
+    "Stock connect",
+    "Information asymmetry",
+    "Investor sentiment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Propensity Score Matching (PSM)",
+    "Principal Component Analysis (PCA)",
+    "Support Vector Machine (SVM)",
+    "Residual Income Model",
+    "Placebo Tests",
+    "Parallel Trend Tests",
+    "Forward-looking Analysis"
+  ],
+  "industries": [
+    "Financial Services",
+    "Capital Markets",
+    "Stock Exchanges",
+    "State-owned Enterprises",
+    "Private Enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "G14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

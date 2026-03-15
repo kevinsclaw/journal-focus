@@ -1,0 +1,75 @@
+{
+  "title": "Customer digital transformation and enterprise risk-taking:",
+  "authors": [
+    "Yibing Ding",
+    "Yining Sun"
+  ],
+  "keywords": [
+    "Customer digital transformation",
+    "Enterprise risk-taking",
+    "Supply chain spillover"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Supply chain network analysis",
+    "Mechanism testing",
+    "Heterogeneity analysis",
+    "Moderating effect analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Supply Chain/Logistics",
+    "Digital Technology",
+    "State-owned enterprises",
+    "Cross-border trade"
+  ],
+  "jel_codes": [
+    {
+      "code": "D22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D81",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

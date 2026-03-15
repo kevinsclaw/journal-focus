@@ -1,0 +1,53 @@
+{
+  "title": "Peace or menace? Robots and social conflict☆",
+  "authors": [
+    "Mingyue Wang"
+  ],
+  "keywords": [
+    "Robots",
+    "Social conflict",
+    "Labor market"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Poisson Pseudo-Maximum Likelihood (PPML)",
+    "Ordinary Least Squares (OLS)",
+    "Cross-sectional analysis",
+    "Survey data analysis",
+    "Causal identification"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial robotics",
+    "Automotive",
+    "Labor market"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

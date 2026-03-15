@@ -1,0 +1,58 @@
+{
+  "title": "Fintech adoption and skill demand of financial institutions☆",
+  "authors": [
+    "Banking\nFinancial"
+  ],
+  "keywords": [
+    "Banking",
+    "Financial inclusion",
+    "ICT",
+    "Labor demand, skill-biased technological",
+    "change"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variables (IV)",
+    "Bartik-style IV",
+    "Continuous Bag-of-Words (CBOW) model",
+    "Keyword analysis",
+    "Theoretical modeling",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Insurance",
+    "Securities brokerage",
+    "Investment management",
+    "Fintech",
+    "Digital payments"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

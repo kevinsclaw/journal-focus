@@ -1,0 +1,56 @@
+{
+  "title": "Labor cost, robots, and product quality☆",
+  "authors": [
+    "Junyi Xiang"
+  ],
+  "keywords": [
+    "Labor cost",
+    "Robots",
+    "Minimum wage",
+    "Product quality",
+    "Geographic discontinuity"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Geographic discontinuity design",
+    "Empirical analysis with firm-level data",
+    "Custom trade statistics analysis",
+    "Manual data verification",
+    "Causal identification"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial robotics",
+    "International trade",
+    "General trade",
+    "Labor-intensive industries"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

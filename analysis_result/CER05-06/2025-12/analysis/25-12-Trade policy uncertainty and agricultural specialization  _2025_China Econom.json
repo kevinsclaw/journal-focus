@@ -1,0 +1,68 @@
+{
+  "title": "Trade policy uncertainty and agricultural specialization: Evidence",
+  "authors": [
+    "Guo Dongmei"
+  ],
+  "keywords": [
+    "Trade policy uncertainty",
+    "Agricultural products",
+    "Specialized cultivation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Empirical analysis",
+    "Mechanism analysis",
+    "Regression analysis",
+    "Robustness tests"
+  ],
+  "industries": [
+    "Agriculture",
+    "Agricultural trade",
+    "Agricultural equipment/machinery",
+    "Transportation"
+  ],
+  "jel_codes": [
+    {
+      "code": "F15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D24",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

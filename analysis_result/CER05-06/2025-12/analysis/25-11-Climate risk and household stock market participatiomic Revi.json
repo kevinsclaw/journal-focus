@@ -1,0 +1,70 @@
+{
+  "title": "Climate risk and household stock market participation",
+  "authors": [
+    "Yong Li"
+  ],
+  "keywords": [
+    "Climate risk",
+    "Household portfolio choice",
+    "Background risk",
+    "Credit constraints"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel fixed-effects model",
+    "Instrumental variables (IV)",
+    "Mechanism analysis",
+    "Heterogeneity analysis",
+    "Household-level panel data analysis"
+  ],
+  "industries": [
+    "Financial Services",
+    "Agriculture",
+    "Banking",
+    "Stock Market",
+    "Healthcare"
+  ],
+  "jel_codes": [
+    {
+      "code": "G11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I19",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q54",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

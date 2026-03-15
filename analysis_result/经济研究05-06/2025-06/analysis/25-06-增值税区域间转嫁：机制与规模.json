@@ -1,0 +1,74 @@
+{
+  "title": "汪　昊：增值税区域间转嫁：机制与规模",
+  "authors": [],
+  "keywords": [
+    "增值税",
+    "税收转嫁",
+    "区域经济",
+    "多区域可计算一般均衡模型"
+  ],
+  "abstract": "税收转嫁直接影响区域间税收分配公平和区域间均衡发展。本文基于多 区域一般均衡税收转嫁模型，从理论上分析了增值税通过劳动、资本和消费三条路径在区 域间转嫁的机制。基于2017 年中国多区域社会核算矩阵，本文构建了一个包含东、中、西 三区域和",
+  "language": "zh",
+  "methods": [
+    "多区域一般均衡理论模型",
+    "多区域可计算一般均衡模型(MRCGE)",
+    "反事实分析方法",
+    "社会核算矩阵(SAM)"
+  ],
+  "industries": [
+    "第一产业(农业)",
+    "第二产业(工业)",
+    "第三产业(服务业)"
+  ],
+  "cssci_categories": [
+    "政治学",
+    "经济学",
+    "社会学"
+  ],
+  "funding": [
+    "72273162",
+    "24ZDA039"
+  ],
+  "jel_codes": [
+    {
+      "code": "H25",
+      "confidence": 0.9,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "R10",
+      "confidence": 0.9,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "R12",
+      "confidence": 0.9,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L60",
+      "confidence": 0.9,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L80",
+      "confidence": 0.6,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "C68",
+      "confidence": 0.42,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "D58",
+      "confidence": 0.42,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "L00",
+      "confidence": 0.4,
+      "source": "inferred_cn"
+    }
+  ]
+}

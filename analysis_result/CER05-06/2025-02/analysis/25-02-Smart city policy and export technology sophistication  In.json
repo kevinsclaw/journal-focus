@@ -1,0 +1,58 @@
+{
+  "title": "Smart city policy and export technology sophistication:",
+  "authors": [
+    "Congyu Zhao"
+  ],
+  "keywords": [
+    "Export technology sophistication",
+    "Smart city policy",
+    "Heterogeneous analysis",
+    "Mediating effect",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered Difference-in-Difference (DID)",
+    "Parallel trend test",
+    "Placebo test",
+    "Heterogeneous analysis",
+    "Mediating effect analysis",
+    "Robustness tests"
+  ],
+  "industries": [
+    "Information Technology",
+    "Urban Infrastructure",
+    "International Trade",
+    "Environmental Services",
+    "Energy",
+    "Resource-based industries"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

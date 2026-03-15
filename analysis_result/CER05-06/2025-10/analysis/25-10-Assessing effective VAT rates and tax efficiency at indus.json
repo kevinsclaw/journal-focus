@@ -1,0 +1,58 @@
+{
+  "title": "China Economic Review 93 (2025) 102454",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "VAT",
+    "Effective tax rate",
+    "Tax efficiency",
+    "Efficiency ratio",
+    "Industry level",
+    "CGE"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Computable General Equilibrium (CGE) modeling",
+    "Input-output analysis",
+    "Endogenous estimation",
+    "International comparative analysis",
+    "Efficiency ratio analysis",
+    "Tax efficiency measurement"
+  ],
+  "industries": [
+    "Services sector",
+    "Agriculture (referenced via farmers)",
+    "Small business sector",
+    "Manufacturing (implied through input-output analysis)",
+    "Import/Export sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "C63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H20",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

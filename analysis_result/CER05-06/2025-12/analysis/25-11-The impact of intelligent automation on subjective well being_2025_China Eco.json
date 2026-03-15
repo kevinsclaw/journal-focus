@@ -1,0 +1,76 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Intelligent automation",
+    "Subjective well-being",
+    "Job satisfaction",
+    "Inequality",
+    "Nonstandard form of employment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Multilevel probit models",
+    "Instrumental variables",
+    "Counterfactual decomposition analysis",
+    "Mediation analysis"
+  ],
+  "industries": [
+    "General employment/labor market"
+  ],
+  "jel_codes": [
+    {
+      "code": "O3",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

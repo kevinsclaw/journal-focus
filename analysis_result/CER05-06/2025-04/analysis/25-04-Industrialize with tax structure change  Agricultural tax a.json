@@ -1,0 +1,73 @@
+{
+  "title": "Industrialize with tax structure change: Agricultural tax abolition",
+  "authors": [
+    "Meng Tang"
+  ],
+  "keywords": [
+    "Tax structure reform",
+    "Agricultural tax abolition",
+    "Government incentives",
+    "Industrialization",
+    "Chinese economy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Mechanism analysis",
+    "Firm-level analysis",
+    "County-level analysis",
+    "Remote sensing data analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Banking/Financial Services",
+    "Manufacturing",
+    "Industrial/Secondary sector",
+    "Real Estate/Land Development",
+    "Construction"
+  ],
+  "jel_codes": [
+    {
+      "code": "H71",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

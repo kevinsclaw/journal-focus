@@ -1,0 +1,56 @@
+{
+  "title": "How digital firms shape innovation networks: Evidence from",
+  "authors": [
+    "Zhi Su",
+    "Jiahao Tang",
+    "Hongling Guan"
+  ],
+  "keywords": [
+    "Digital technology",
+    "Innovation network",
+    "Company law amendment"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Network Analysis",
+    "Temporal Exponential Random Graph Model (TERGM)",
+    "Stress Testing",
+    "Patent Citation Analysis",
+    "Empirical Analysis"
+  ],
+  "industries": [
+    "Digital Technology",
+    "Manufacturing",
+    "Financial Markets",
+    "Non-manufacturing sectors",
+    "Technology Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

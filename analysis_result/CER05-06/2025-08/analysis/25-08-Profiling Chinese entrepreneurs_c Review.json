@@ -1,0 +1,54 @@
+{
+  "title": "Profiling Chinese entrepreneurs☆",
+  "authors": [
+    "Profiling Chinese"
+  ],
+  "keywords": [
+    "Entrepreneurship",
+    "Personality traits",
+    "Risk taking",
+    "Human capital",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Survey data analysis",
+    "Comparative analysis",
+    "Cross-sectional analysis",
+    "Large-scale data sampling"
+  ],
+  "industries": [
+    "Small and Medium Enterprises (SMEs)",
+    "Private businesses",
+    "Self-employed businesses",
+    "State-owned enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

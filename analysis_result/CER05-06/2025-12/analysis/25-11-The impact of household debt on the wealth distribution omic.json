@@ -1,0 +1,57 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Household debt",
+    "Heterogeneous agent model",
+    "Indirect wealth effect",
+    "Wealth distribution inequality",
+    "Wealth accumulation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Heterogeneous Agent Model",
+    "Structural Vector Autoregressive (SVAR)",
+    "Hamilton-Jacobi-Bellman (HJB) Problem",
+    "New Keynesian (NK) Model",
+    "Dynamic Stochastic General Equilibrium (DSGE) Model",
+    "Econometric Analysis",
+    "Statistical Moment Analysis",
+    "Interpolation"
+  ],
+  "industries": [
+    "Finance",
+    "Banking",
+    "Real Estate/Housing"
+  ],
+  "jel_codes": [
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "E21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

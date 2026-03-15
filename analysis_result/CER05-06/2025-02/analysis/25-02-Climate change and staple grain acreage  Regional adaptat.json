@@ -1,0 +1,70 @@
+{
+  "title": "Climate change and staple grain acreage: Regional adaptation in",
+  "authors": [
+    "Le Yu"
+  ],
+  "keywords": [
+    "Climate change",
+    "Staple grains",
+    "Acreage patterns",
+    "Agricultural cluster",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel regression analysis",
+    "Fixed effects models",
+    "Inverse-Distance Weighting (IDW)",
+    "Mechanism analysis",
+    "Long-term impact analysis",
+    "Regional heterogeneity analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Grain production",
+    "Food production"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q54",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D24",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Moving out of agriculture: How trade liberalization affects",
+  "authors": [
+    "Zhendong Ma"
+  ],
+  "keywords": [
+    "Trade liberalization",
+    "Structural transformation",
+    "Agricultural productivity",
+    "Human capital"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Total Factor Productivity (TFP) estimation",
+    "Fixed-Point Survey analysis",
+    "Census data analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Manufacturing",
+    "International Trade",
+    "Primary sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O17",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

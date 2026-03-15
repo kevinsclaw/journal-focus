@@ -1,0 +1,64 @@
+{
+  "title": "Do children’s time preferences predict future school outcomes?☆",
+  "authors": [
+    "Binglan Wu"
+  ],
+  "keywords": [
+    "Time preferences",
+    "Big Five"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Longitudinal Study",
+    "Shapley-Owen Decomposition",
+    "Regression Analysis",
+    "Incentivized Experiments",
+    "Multi-stage Dynamic Process Analysis"
+  ],
+  "industries": [
+    "Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "C91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I20",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

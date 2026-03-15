@@ -1,0 +1,52 @@
+{
+  "title": "Leveling the playing field: How intellectual property protection",
+  "authors": [
+    "Xiaotian Hu"
+  ],
+  "keywords": [
+    "Foreign quality shocks",
+    "Innovation",
+    "Intellectual property protection",
+    "Manufacturing",
+    "Network effect"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variable Two-Stage Least Squares (IV-2SLS)",
+    "Mechanism Analysis",
+    "Heterogeneity Analysis",
+    "Panel Data Analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Export Industry"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

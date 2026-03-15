@@ -1,0 +1,71 @@
+{
+  "title": "How does monetary policy shock affect banks’ loan loss",
+  "authors": [
+    "Yong Ma"
+  ],
+  "keywords": [
+    "Monetary policy shock",
+    "Loan loss provisions",
+    "Bank regulation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Time series analysis",
+    "Regression analysis",
+    "Fixed effects model"
+  ],
+  "industries": [
+    "Banking",
+    "Financial services",
+    "Commercial banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "G21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "M41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

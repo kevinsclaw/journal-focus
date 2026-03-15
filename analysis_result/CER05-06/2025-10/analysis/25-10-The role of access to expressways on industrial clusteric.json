@@ -1,0 +1,70 @@
+{
+  "title": "The role of access to expressways on industrial clustering",
+  "authors": [
+    "Yunfei Zhang"
+  ],
+  "keywords": [
+    "Expressway",
+    "Industrial clustering",
+    "Regional development",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Matching approach",
+    "Long-difference regression",
+    "Instrumental Variables (IV)",
+    "Robustness checks",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Logistics/Transportation",
+    "Industrial clusters (general manufacturing)",
+    "Labor-intensive industries"
+  ],
+  "jel_codes": [
+    {
+      "code": "D80",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L60",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

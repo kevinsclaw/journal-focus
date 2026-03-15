@@ -1,0 +1,71 @@
+{
+  "title": "Supply network and firm innovation: Evidence from China☆",
+  "authors": [
+    "Xiao Deng"
+  ],
+  "keywords": [
+    "Supply network",
+    "Innovation",
+    "Network centrality",
+    "Economic sanction"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "OLS Regression",
+    "2SLS (Two-Stage Least Squares)",
+    "Instrumental Variables (IV)",
+    "Lewbel (2012) Heteroskedasticity-based IV",
+    "Network Analysis",
+    "Panel Data Analysis",
+    "Robustness Checks"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Technology",
+    "Supply Chain/Logistics",
+    "Raw Materials"
+  ],
+  "jel_codes": [
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O3",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

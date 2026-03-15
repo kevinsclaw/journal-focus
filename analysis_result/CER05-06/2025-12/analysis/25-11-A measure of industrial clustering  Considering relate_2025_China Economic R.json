@@ -1,0 +1,72 @@
+{
+  "title": "A measure of industrial clustering: Considering relatedness",
+  "authors": [
+    "Jianqing Ruan"
+  ],
+  "keywords": [
+    "Industrial clusters",
+    "Relatedness",
+    "Concentration",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Comparative analysis",
+    "Index construction",
+    "Revealed comparative advantage analysis",
+    "Product space analysis",
+    "Correlation analysis",
+    "Predictive modeling",
+    "Census data analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Labor-intensive industries",
+    "Township and village enterprises",
+    "Industrial clusters (general)",
+    "Light manufacturing"
+  ],
+  "jel_codes": [
+    {
+      "code": "L10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L50",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L60",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

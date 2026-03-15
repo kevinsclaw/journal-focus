@@ -1,0 +1,56 @@
+{
+  "title": "Are firms with hometown CEOs better citizens? Evidence from the",
+  "authors": [
+    "Xiaobo Li"
+  ],
+  "keywords": [
+    "CEO hometown identity",
+    "Corporate poverty alleviation participation",
+    "CEO media appearance",
+    "Organizational slack",
+    "Environmental complexity"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Two-stage least squares (2SLS)",
+    "Social identity theory",
+    "Robustness tests",
+    "Multivariate regression"
+  ],
+  "industries": [
+    "Agriculture",
+    "E-commerce",
+    "Tourism",
+    "Manufacturing",
+    "Poverty alleviation services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

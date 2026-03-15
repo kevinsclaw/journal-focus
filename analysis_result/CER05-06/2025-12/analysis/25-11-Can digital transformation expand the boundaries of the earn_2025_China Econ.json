@@ -1,0 +1,54 @@
+{
+  "title": "Can digital transformation expand the boundaries of the earnings",
+  "authors": [
+    "Ning Zhu"
+  ],
+  "keywords": [
+    "Digital transformation",
+    "Earnings potential",
+    "Commercial banks",
+    "Network"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Nonparametric local polynomial regression",
+    "Coupling analysis",
+    "Data Envelopment Analysis (DEA)",
+    "Two-stage banking technology model",
+    "Sensitivity analysis",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Commercial Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

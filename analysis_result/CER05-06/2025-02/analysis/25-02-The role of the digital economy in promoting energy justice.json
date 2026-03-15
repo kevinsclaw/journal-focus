@@ -1,0 +1,57 @@
+{
+  "title": "The role of the digital economy in promoting energy justice:",
+  "authors": [
+    "Guoxiang Li"
+  ],
+  "keywords": [
+    "Digital economy",
+    "Technological progress",
+    "Energy justice",
+    "Energy transition"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variables (IV)",
+    "Econometric modeling",
+    "Empirical analysis",
+    "Theoretical analysis",
+    "Comparative analysis",
+    "Cross-regional analysis"
+  ],
+  "industries": [
+    "Energy",
+    "Digital Economy",
+    "Clean Energy",
+    "Fossil Fuels",
+    "Environmental Technology",
+    "Data/Information Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

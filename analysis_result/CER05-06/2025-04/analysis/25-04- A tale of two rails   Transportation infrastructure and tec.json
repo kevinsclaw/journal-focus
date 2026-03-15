@@ -1,0 +1,72 @@
+{
+  "title": "China Economic Review 90 (2025) 102367",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Transport infrastructure",
+    "R&D center foreign firm",
+    "Technology spillover effect",
+    "High-speed rail",
+    "Subway"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Empirical analysis",
+    "Technology spillover analysis",
+    "Cross-city analysis"
+  ],
+  "industries": [
+    "Transportation",
+    "High-tech",
+    "Research & Development",
+    "Railway",
+    "Urban transit/Subway",
+    "Strategic emerging industries",
+    "Agriculture"
+  ],
+  "jel_codes": [
+    {
+      "code": "F21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R40",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

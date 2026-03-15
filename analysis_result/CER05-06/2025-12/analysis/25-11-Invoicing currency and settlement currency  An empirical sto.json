@@ -1,0 +1,66 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Invoicing currency",
+    "Settlement currency",
+    "RMB internationalization"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Three-country theoretical model",
+    "Empirical analysis with country-level panel data",
+    "Econometric analysis",
+    "Monetary search models"
+  ],
+  "industries": [
+    "International Trade",
+    "Banking/Financial Services",
+    "Foreign Exchange"
+  ],
+  "jel_codes": [
+    {
+      "code": "F33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G36",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

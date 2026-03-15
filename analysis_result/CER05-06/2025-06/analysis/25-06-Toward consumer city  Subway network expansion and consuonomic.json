@@ -1,0 +1,74 @@
+{
+  "title": "Toward consumer city: Subway network expansion and",
+  "authors": [
+    "Yanwen Yun"
+  ],
+  "keywords": [
+    "Consumer city",
+    "Travel costs",
+    "Demand externalities",
+    "Consumption industry",
+    "Subway network"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Inconsequential units approach",
+    "Decomposition analysis",
+    "Longitudinal data analysis",
+    "Network analysis",
+    "Spatial analysis",
+    "Causal identification",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Retail services",
+    "Restaurants",
+    "Transportation (Subway)",
+    "Consumer services",
+    "Urban real estate",
+    "Tourism"
+  ],
+  "jel_codes": [
+    {
+      "code": "R30",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R42",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L8",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

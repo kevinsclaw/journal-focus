@@ -1,0 +1,49 @@
+{
+  "title": "The role of experience in climate adaptation: Evidence from a field",
+  "authors": [
+    "Yihong Ding"
+  ],
+  "keywords": [
+    "Decision-making framework",
+    "Climate change",
+    "Experience",
+    "Bayesian approach",
+    "Risk preference"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Lab-in-field experiments",
+    "Prospect Theory",
+    "Bayesian estimation",
+    "Theory of Planned Behaviour",
+    "Protection Motivation Framework",
+    "Expected Utility Theory"
+  ],
+  "industries": [
+    "Agriculture",
+    "Farming"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

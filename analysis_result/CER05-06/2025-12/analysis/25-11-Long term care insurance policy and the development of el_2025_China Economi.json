@@ -1,0 +1,74 @@
+{
+  "title": "Long-term care insurance policy and the development of elderly",
+  "authors": [
+    "Tianli Yang"
+  ],
+  "keywords": [
+    "Long-term care insurance",
+    "Elderly care enterprises",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Propensity Score Matching (PSM-DID)",
+    "Heterogeneity-robust DID",
+    "Robustness checks",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Long-term Care",
+    "Elderly Care Services",
+    "Social Work",
+    "Insurance"
+  ],
+  "jel_codes": [
+    {
+      "code": "H55",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J26",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

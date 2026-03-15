@@ -1,0 +1,80 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Capital account liberalization",
+    "Heterogeneous households",
+    "Uncertainty shock",
+    "Capital allocation",
+    "Aggregate and distributional effects"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Dynamic General Equilibrium Model",
+    "Heterogeneous Agent Model",
+    "Quantitative Analysis",
+    "Steady-state Analysis",
+    "Calibration"
+  ],
+  "industries": [
+    "Financial Services",
+    "Real Estate/Housing",
+    "Banking",
+    "International Finance"
+  ],
+  "jel_codes": [
+    {
+      "code": "E21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F38",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

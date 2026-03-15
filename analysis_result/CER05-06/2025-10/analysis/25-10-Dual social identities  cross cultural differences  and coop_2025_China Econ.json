@@ -1,0 +1,64 @@
+{
+  "title": "Dual social identities, cross-cultural differences, and cooperation:",
+  "authors": [
+    "Shutao Sun"
+  ],
+  "keywords": [
+    "Dual identities",
+    "Cooperation",
+    "Ingroup favoritism",
+    "Universalism",
+    "One Country, Two Systems"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Laboratory Experiment",
+    "Public Good Game",
+    "Fixed Effects Models",
+    "Two-person Game Theory",
+    "Cross-sectional Analysis",
+    "Comparative Analysis"
+  ],
+  "industries": [
+    "Education",
+    "Public Administration"
+  ],
+  "jel_codes": [
+    {
+      "code": "H41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D64",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C92",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

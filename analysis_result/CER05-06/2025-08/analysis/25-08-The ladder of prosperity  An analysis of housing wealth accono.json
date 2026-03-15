@@ -1,0 +1,69 @@
+{
+  "title": "The ladder of prosperity: An analysis of housing wealth",
+  "authors": [
+    "Jinqiao Long"
+  ],
+  "keywords": [
+    "Income groups",
+    "Housing wealth",
+    "Housing price",
+    "Housing inequality",
+    "Wealth inequality"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Survey data analysis",
+    "Comparative analysis",
+    "Household finance data analysis",
+    "Cross-sectional analysis"
+  ],
+  "industries": [
+    "Real Estate",
+    "Housing Finance",
+    "Mortgage Lending",
+    "Urban Development"
+  ],
+  "jel_codes": [
+    {
+      "code": "D31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R2",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

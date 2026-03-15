@@ -1,0 +1,49 @@
+{
+  "title": "Journal Pre-proof",
+  "authors": [
+    "Journal Pre"
+  ],
+  "keywords": [
+    "Online entertainment",
+    "Video game",
+    "Export",
+    "International trade",
+    "Country"
+  ],
+  "abstract": "Online entertainment, represented by online videos, social media, and video games, have become an integral part of people's daily lives. How does online entertainment influence international economic activities and international relations? This paper investigates the impact of the late-2020 global success of a Chinese video game— Genshin Impact—on China's product exports, aiming to provide empirical insights into this question. Using monthly trade data and a Difference-in-Differences approach, w...",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Monthly trade data analysis",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Video Games",
+    "Online Entertainment",
+    "Digital Media",
+    "Mobile Gaming",
+    "Social Media"
+  ],
+  "jel_codes": [
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

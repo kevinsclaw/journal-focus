@@ -1,0 +1,54 @@
+{
+  "title": "Promoting organic fertilizer use through subsidy incentives and",
+  "authors": [
+    "Jiangyi Li"
+  ],
+  "keywords": [
+    "Agricultural technology extension",
+    "Organic fertilizer",
+    "Subsidy incentives",
+    "Knowledge dissemination",
+    "PSM-DID"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Propensity Score Matching (PSM)",
+    "PSM-DID combined approach",
+    "Survey data analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Agricultural chemicals",
+    "Fertilizer manufacturing",
+    "Agricultural technology services"
+  ],
+  "jel_codes": [
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

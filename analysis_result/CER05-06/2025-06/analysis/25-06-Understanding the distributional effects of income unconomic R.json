@@ -1,0 +1,74 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Distributional effect",
+    "Heterogeneous households",
+    "Uncertainty shocks",
+    "Consumption inequality"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Quantitative modeling with heterogeneous agents",
+    "Panel data analysis",
+    "Empirical correlation analysis",
+    "Calibration modeling",
+    "Counterfactual analysis",
+    "Dynamic response analysis",
+    "Household-level data analysis"
+  ],
+  "industries": [
+    "Banking/Financial Services",
+    "Government (Public Finance)"
+  ],
+  "jel_codes": [
+    {
+      "code": "D3",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E60",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

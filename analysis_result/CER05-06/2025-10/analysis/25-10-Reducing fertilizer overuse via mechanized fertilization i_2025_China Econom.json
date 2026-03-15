@@ -1,0 +1,69 @@
+{
+  "title": "Reducing fertilizer overuse via mechanized fertilization in China:",
+  "authors": [
+    "Rong Cai"
+  ],
+  "keywords": [
+    "Agricultural mechanization",
+    "Fertilizer use intensity",
+    "Outsourcing",
+    "Scale farms",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Treatment Effect Model",
+    "Unconditional Quantile Regression",
+    "Two-stage Predictor Substitution",
+    "Stochastic Meta-frontier Input Distance Function",
+    "Fractional Regression Model"
+  ],
+  "industries": [
+    "Agriculture",
+    "Agricultural Machinery",
+    "Fertilizer Industry"
+  ],
+  "jel_codes": [
+    {
+      "code": "D24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

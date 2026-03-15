@@ -1,0 +1,56 @@
+{
+  "title": "The effects of African civil conflicts on FDI: The moderating role of",
+  "authors": [
+    "Hao Xiao"
+  ],
+  "keywords": [
+    "Africa",
+    "Civil conflict",
+    "Bilateral political relations",
+    "FDI",
+    "Chinese multinationals"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Moderation analysis",
+    "Cross-country comparison",
+    "Statistical analysis of bilateral investment flows",
+    "Fixed effects modeling"
+  ],
+  "industries": [
+    "Foreign Direct Investment",
+    "International Trade",
+    "Mining",
+    "Manufacturing",
+    "Infrastructure"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

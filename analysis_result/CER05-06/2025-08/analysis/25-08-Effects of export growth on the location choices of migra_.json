@@ -1,0 +1,75 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Export shocks",
+    "Interregional migration",
+    "Location choices",
+    "Conditional logit model",
+    "Trade-offs"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Conditional logit model",
+    "Census data analysis",
+    "Geographic distribution analysis",
+    "Comparative analysis",
+    "Statistical regression"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Textiles and clothing",
+    "Export trade",
+    "Labor/workforce"
+  ],
+  "jel_codes": [
+    {
+      "code": "F16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J61",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Industrial policies and development of grain clusters: Evidence",
+  "authors": [
+    "Yinze Zhang",
+    "Jianqing Ruan"
+  ],
+  "keywords": [
+    "Grain clusters",
+    "Industrial clusters",
+    "Industrial policies",
+    "Major grain-producing areas"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Empirical analysis",
+    "Geographic concentration analysis",
+    "Statistical analysis of enterprise data"
+  ],
+  "industries": [
+    "Agriculture",
+    "Grain production",
+    "Food processing",
+    "Agricultural cooperatives",
+    "Family farming"
+  ],
+  "jel_codes": [
+    {
+      "code": "R32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O25",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

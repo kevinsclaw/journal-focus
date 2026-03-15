@@ -1,0 +1,50 @@
+{
+  "title": "Examining the wage gap between public and non-public sector in",
+  "authors": [
+    "Qingquan Liang",
+    "Weihong Zeng"
+  ],
+  "keywords": [
+    "Public sector wage gap",
+    "Quantile selection model",
+    "Unconditional distribution"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Quantile Regression",
+    "Robust Quantile Selection Model",
+    "Heckman Selection Model",
+    "Unconditional Quantile Regression",
+    "Factor Analysis",
+    "Model Specification Tests"
+  ],
+  "industries": [
+    "Public Sector",
+    "State-owned Enterprises",
+    "Civil Service",
+    "Private Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

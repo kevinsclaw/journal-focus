@@ -1,0 +1,53 @@
+{
+  "title": "Effects of credit misallocation on systemic risk of non-financial",
+  "authors": [],
+  "keywords": [
+    "Credit misallocation",
+    "Non-financial corporations",
+    "Systemic risk",
+    "Monetary policy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Delta CoVaR model",
+    "Marginal expected shortfall",
+    "Tail dependence estimators",
+    "Endogeneity testing"
+  ],
+  "industries": [
+    "Banking",
+    "State-owned enterprises",
+    "Non-financial corporations",
+    "Financial corporations",
+    "Shadow banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D24",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

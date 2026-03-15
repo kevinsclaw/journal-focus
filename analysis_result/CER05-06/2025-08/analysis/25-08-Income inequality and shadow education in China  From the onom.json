@@ -1,0 +1,51 @@
+{
+  "title": "Income inequality and shadow education in China: From the",
+  "authors": [
+    "Yuexuan Gong"
+  ],
+  "keywords": [
+    "Income inequality",
+    "Shadow education",
+    "Social stratification",
+    "Education inequality"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Survey data analysis",
+    "Mechanism analysis",
+    "Statistical analysis of Gini coefficient",
+    "Household survey data analysis"
+  ],
+  "industries": [
+    "Education",
+    "Private tutoring/Shadow education"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

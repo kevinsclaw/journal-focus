@@ -1,0 +1,42 @@
+{
+  "title": "Adverse sentiments in the American media houses towards the",
+  "authors": [
+    "Down Jones"
+  ],
+  "keywords": [
+    "Belt and road initiative (BRI)",
+    "Sentiment analysis",
+    "The wall street journal",
+    "Down Jones newswires",
+    "Agenda-setting theory",
+    "Narrative taxonomy, time, texture and",
+    "tendency"
+  ],
+  "abstract": ") texture of the narrative is more negative and WSJ is more concrete than DJN is. Fourth, the political discourse in the context (people, groups, country) reveals negative tendencies, but business discourse in the institutional/ corporate contexts reveals positive tendencies. These findings offer valuable insights into the evolving perceptions and attitudes surrounding the BRI project in influential global media outlets in America, providing a nuanced understanding of how media framing (taxonomy...",
+  "language": "en",
+  "methods": [
+    "Sentiment Analysis",
+    "Media Content Analysis",
+    "Narrative Analysis",
+    "Taxonomy Analysis",
+    "Temporal Analysis",
+    "Agenda-Setting Theory"
+  ],
+  "industries": [
+    "Media",
+    "News Publishing",
+    "Finance"
+  ],
+  "jel_codes": [
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

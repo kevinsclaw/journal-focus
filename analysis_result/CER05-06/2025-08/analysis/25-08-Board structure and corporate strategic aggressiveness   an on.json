@@ -1,0 +1,44 @@
+{
+  "title": "Board structure and corporate strategic aggressiveness - an",
+  "authors": [
+    "Yang Yaowu"
+  ],
+  "keywords": [
+    "Board structure",
+    "Corporate strategy aggressiveness",
+    "Double machine learning"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Double Machine Learning (DML)",
+    "Panel Data Analysis",
+    "Heterogeneous Effects Analysis"
+  ],
+  "industries": [
+    "All A-share listed companies in China",
+    "Corporate Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

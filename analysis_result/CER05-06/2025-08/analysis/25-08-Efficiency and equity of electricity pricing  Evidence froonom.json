@@ -1,0 +1,56 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Increasing block pricing",
+    "Family size",
+    "Social equity"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variable (IV) Analysis",
+    "Comparative Analysis",
+    "Panel Data Analysis",
+    "Elasticity Estimation",
+    "Break-even Analysis"
+  ],
+  "industries": [
+    "Electricity/Utilities",
+    "Residential Energy"
+  ],
+  "jel_codes": [
+    {
+      "code": "D12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q41",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

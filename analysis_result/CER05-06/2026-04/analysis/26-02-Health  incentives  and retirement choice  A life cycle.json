@@ -1,0 +1,56 @@
+{
+  "title": "Health, incentives, and retirement choice: A life-cycle analysis",
+  "authors": [
+    "Chao Li"
+  ],
+  "keywords": [
+    "Health",
+    "Labor",
+    "China pension scheme",
+    "Endogenous retirement",
+    "Lifecycle model"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Lifecycle model",
+    "Structural estimation",
+    "Counterfactual simulations",
+    "Calibration modeling",
+    "Panel data analysis",
+    "Endogenous health modeling",
+    "Optimal stopping problem analysis"
+  ],
+  "industries": [
+    "Insurance",
+    "Pension/Retirement Services",
+    "Healthcare"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

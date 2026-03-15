@@ -1,0 +1,74 @@
+{
+  "title": "Information disclosure and property value in China",
+  "authors": [
+    "Jixiang Qiu"
+  ],
+  "keywords": [
+    "Air quality information disclosure",
+    "Hedonic",
+    "Property value",
+    "Avoidance behavior"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Hedonic Pricing Model",
+    "Fixed Effects Models",
+    "Placebo Tests",
+    "Heterogeneity Treatment Effects Estimation"
+  ],
+  "industries": [
+    "Real Estate",
+    "Environmental Monitoring",
+    "Property Development",
+    "Housing"
+  ],
+  "jel_codes": [
+    {
+      "code": "D62",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q56",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

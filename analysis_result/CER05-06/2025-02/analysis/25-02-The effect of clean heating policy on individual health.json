@@ -1,0 +1,55 @@
+{
+  "title": "The effect of clean heating policy on individual health: Evidence",
+  "authors": [
+    "Liping Liao"
+  ],
+  "keywords": [
+    "Clean heating policy",
+    "Personal health",
+    "Costs and benefits",
+    "The improvement of air quality",
+    "Avoidance behavior"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Difference (DID)",
+    "Double Machine Learning (DML)",
+    "Panel Data Analysis",
+    "Cost-Benefit Analysis",
+    "Micro Data Analysis"
+  ],
+  "industries": [
+    "Energy/Utilities (Heating)",
+    "Healthcare",
+    "Environmental Services",
+    "Public Housing/Real Estate"
+  ],
+  "jel_codes": [
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

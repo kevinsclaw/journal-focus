@@ -1,0 +1,67 @@
+{
+  "title": "Export destinations and pollution reduction: Theory and evidence",
+  "authors": [
+    "Geng Huang"
+  ],
+  "keywords": [
+    "Export destination",
+    "Pollution emission",
+    "China's open economy",
+    "Trading partner"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Theoretical microeconomic modeling",
+    "Average Treatment Effect (ATT)",
+    "Counterfactual analysis",
+    "Panel data analysis",
+    "Causal inference"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Export/International Trade"
+  ],
+  "jel_codes": [
+    {
+      "code": "F15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q56",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Wealth-based common prosperity and household CO2: Evidence",
+  "authors": [
+    "Xiaodi Qin",
+    "Huichun Sun"
+  ],
+  "keywords": [
+    "Wealth inequality",
+    "Household CO2 emissions",
+    "Household consumption",
+    "Climate Change"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Instrumental Variable (IV) estimation",
+    "Sen's welfare function",
+    "Causal impact analysis",
+    "Econometric modeling"
+  ],
+  "industries": [
+    "Household/Consumer sector",
+    "Energy sector",
+    "Environmental services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

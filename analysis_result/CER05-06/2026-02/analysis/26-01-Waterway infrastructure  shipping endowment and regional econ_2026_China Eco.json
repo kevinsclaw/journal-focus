@@ -1,0 +1,50 @@
+{
+  "title": "Waterway infrastructure, shipping endowment and regional",
+  "authors": [
+    "Yuanbo Liang"
+  ],
+  "keywords": [
+    "Transportation infrastructure",
+    "Water transport endowment",
+    "Regional economic development",
+    "Difference-in-differences"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Natural experiment",
+    "Panel data analysis",
+    "Remote sensing data analysis",
+    "Geo-spatial analysis"
+  ],
+  "industries": [
+    "Transportation/Shipping",
+    "Waterway infrastructure",
+    "Freight/Logistics",
+    "Industrial manufacturing",
+    "Agriculture"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

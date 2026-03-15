@@ -1,0 +1,46 @@
+{
+  "title": "How does capital market liberalization shape corporate shadow",
+  "authors": [],
+  "keywords": [
+    "Capital market liberalization",
+    "Shadow banking",
+    "Financing constraint",
+    "Capital allocation efficiency",
+    "Credit allocation quality"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel Data Analysis",
+    "Empirical Analysis",
+    "Financial Repression Theory"
+  ],
+  "industries": [
+    "Banking",
+    "Shadow Banking",
+    "Financial Services",
+    "Non-financial sectors"
+  ],
+  "jel_codes": [
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

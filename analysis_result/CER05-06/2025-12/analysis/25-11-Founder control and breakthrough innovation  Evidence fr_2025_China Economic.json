@@ -1,0 +1,53 @@
+{
+  "title": "Founder control and breakthrough innovation: Evidence from",
+  "authors": [],
+  "keywords": [
+    "Founder control",
+    "Breakthrough innovation",
+    "Corporate governance",
+    "BERT",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Poisson pseudo-maximum likelihood (PPML)",
+    "Instrumental Variables (IV) using founder departures",
+    "Heckman selection model",
+    "Propensity Score Matching (PSM)",
+    "Lead-lag specification",
+    "BERT/SBERT text analysis",
+    "Panel data analysis"
+  ],
+  "industries": [
+    "High-tech",
+    "Technology sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

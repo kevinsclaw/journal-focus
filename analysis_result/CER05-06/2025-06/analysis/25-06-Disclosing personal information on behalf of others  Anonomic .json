@@ -1,0 +1,54 @@
+{
+  "title": "Disclosing personal information on behalf of others: An",
+  "authors": [
+    "Minda Wang"
+  ],
+  "keywords": [
+    "Privacy",
+    "Personal information",
+    "Self-other discrepancy",
+    "Money",
+    "Time"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "BDM mechanism (Becker-DeGroot-Marschak)",
+    "Controlled experiments",
+    "Incentive-compatible experiments",
+    "Willingness to Accept (WTA) elicitation"
+  ],
+  "industries": [
+    "Digital Economy",
+    "Social Networks",
+    "Online Services",
+    "Data Analytics"
+  ],
+  "jel_codes": [
+    {
+      "code": "D82",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D81",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C91",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "High-frequency monetary policy shock",
+    "Transmission mechanism",
+    "Interest rate channel",
+    "Signaling effect"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "High-frequency shock analysis",
+    "Local projection method",
+    "Structural Vector Auto Regression (SVAR)",
+    "Impulse response analysis",
+    "Sign restrictions analysis",
+    "Quasi-experimental design",
+    "Intra-day event study"
+  ],
+  "industries": [
+    "Banking",
+    "Financial Services",
+    "Government Bond Markets",
+    "Foreign Exchange",
+    "Fintech",
+    "Investment Banking",
+    "Commercial Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "E32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E44",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E58",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F31",
+      "confidence": 1.0,
+      "source": "paper"
+    }
+  ]
+}

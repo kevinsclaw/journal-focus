@@ -1,0 +1,52 @@
+{
+  "title": "Journal Pre-proof",
+  "authors": [
+    "Journal Pre"
+  ],
+  "keywords": [
+    "Housing rents",
+    "Migrants’ health",
+    "Medical care accessibility",
+    "Lengthening"
+  ],
+  "abstract": "High housing rents and housing costs have played a critical role in residents’ welfare, especially for migrants who are usually low-socioeconomic, and how housing rent shapes migrants’ health has become an important social issue. Using the 2017 China Migrants Dynamic Survey data, this study finds that rising housing rents are negatively correlated with migrants’ self-rated health and lead to an increase in the probability of suffering from diseases for them. The negative effect of housing rent i...",
+  "language": "en",
+  "methods": [
+    "Survey data analysis",
+    "China Migrants Dynamic Survey (CMDS)",
+    "Statistical analysis",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Real Estate/Housing",
+    "Healthcare",
+    "Urban Development"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

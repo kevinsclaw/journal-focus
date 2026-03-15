@@ -1,0 +1,69 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Agriculture",
+    "Culture",
+    "Labor demand",
+    "Gender equality"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Reduced-form regression analysis",
+    "Cross-sectional data analysis",
+    "Historical data analysis",
+    "Weighted average calculations",
+    "County-level data analysis",
+    "Agro-climatic suitability assessment"
+  ],
+  "industries": [
+    "Agriculture",
+    "Farming",
+    "Agricultural labor"
+  ],
+  "jel_codes": [
+    {
+      "code": "O13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Z1",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

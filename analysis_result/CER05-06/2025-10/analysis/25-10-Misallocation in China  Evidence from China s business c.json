@@ -1,0 +1,69 @@
+{
+  "title": "Misallocation in China: Evidence from China’s business",
+  "authors": [
+    "Xiaoying Yang"
+  ],
+  "keywords": [
+    "Entry deregulation",
+    "Misallocation",
+    "Economic development",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered difference-in-differences (DID)",
+    "Decomposition analysis",
+    "Industry classification analysis",
+    "Pre-post reform comparison",
+    "Productivity measurement (MRPK, MRPL)"
+  ],
+  "industries": [
+    "Manufacturing",
+    "General business services",
+    "Capital-intensive industries (unspecified)",
+    "Labor-intensive industries (unspecified)"
+  ],
+  "jel_codes": [
+    {
+      "code": "D24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "E24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O47",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

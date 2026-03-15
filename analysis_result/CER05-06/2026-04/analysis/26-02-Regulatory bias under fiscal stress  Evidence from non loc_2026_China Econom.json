@@ -1,0 +1,67 @@
+{
+  "title": "Regulatory bias under fiscal stress: Evidence from non-local firms",
+  "authors": [
+    "Yukun Wang"
+  ],
+  "keywords": [
+    "Fiscal stress",
+    "Law enforcement",
+    "Tax exporting",
+    "Maritime traffic citation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Continuous DID",
+    "Micro-data analysis",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Maritime transport",
+    "Shipping/Freight",
+    "Transportation"
+  ],
+  "jel_codes": [
+    {
+      "code": "H3",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H7",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R5",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

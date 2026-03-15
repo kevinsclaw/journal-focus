@@ -1,0 +1,64 @@
+{
+  "title": "The relaxation of birth control policies adversely affects women’s",
+  "authors": [
+    "Zihao Chen"
+  ],
+  "keywords": [
+    "Birth control policies",
+    "Women’s income",
+    "Motherhood penalty",
+    "Labor market discrimination"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Cost-benefit analysis",
+    "Policy impact analysis",
+    "Labor market analysis",
+    "Empirical analysis using fertility rate data",
+    "Statistical analysis of income effects"
+  ],
+  "industries": [
+    "Labor market",
+    "Education",
+    "Healthcare",
+    "Real estate/Housing"
+  ],
+  "jel_codes": [
+    {
+      "code": "J13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

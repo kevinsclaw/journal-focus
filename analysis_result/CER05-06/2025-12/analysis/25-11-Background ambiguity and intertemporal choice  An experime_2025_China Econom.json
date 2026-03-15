@@ -1,0 +1,69 @@
+{
+  "title": "Background ambiguity and intertemporal choice: An experimental",
+  "authors": [
+    "Miao Jin"
+  ],
+  "keywords": [
+    "Intertemporal choice",
+    "Time preferences",
+    "Ambiguity",
+    "Uncertainty"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Within-subject experimental design",
+    "Between-subject experimental design",
+    "Manipulation check",
+    "Natural experiment",
+    "Behavioral experiments",
+    "Myopia model"
+  ],
+  "industries": [
+    "Education",
+    "Academic institutions"
+  ],
+  "jel_codes": [
+    {
+      "code": "D90",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D81",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D01",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

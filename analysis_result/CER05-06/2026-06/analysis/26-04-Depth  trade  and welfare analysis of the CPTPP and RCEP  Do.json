@@ -1,0 +1,64 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Deep trade agreements",
+    "Welfare gains",
+    "CPTPP",
+    "RCEP"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Machine learning clustering (kmeanspp algorithm)",
+    "General equilibrium modeling",
+    "Structural gravity framework",
+    "Counterfactual simulations",
+    "Trade agreement depth measurement"
+  ],
+  "industries": [
+    "International trade",
+    "Government procurement",
+    "Labor markets",
+    "Environmental services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F62",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

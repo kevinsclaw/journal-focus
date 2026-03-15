@@ -1,0 +1,56 @@
+{
+  "title": "The gig economy and household financial vulnerability",
+  "authors": [
+    "Gecheng Yuan"
+  ],
+  "keywords": [
+    "The gig economy",
+    "Household financial vulnerability",
+    "Income",
+    "Entrepreneurial quality",
+    "Liquidity constraint"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered Difference-in-Difference (DID)",
+    "Manual data collection",
+    "Survey data analysis",
+    "Causal analysis",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Ride-hailing services",
+    "Food delivery services",
+    "Financial services",
+    "Gig economy platforms",
+    "Transportation"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

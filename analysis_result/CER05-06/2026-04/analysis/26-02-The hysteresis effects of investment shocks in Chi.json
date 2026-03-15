@@ -1,0 +1,58 @@
+{
+  "title": "The hysteresis effects of investment shocks in China☆",
+  "authors": [
+    "Zixiang Zhu",
+    "Weimin Zhou"
+  ],
+  "keywords": [
+    "Permanent investment shocks",
+    "Hysteresis effects",
+    "SVAR",
+    "Multisector DSGE model"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "SVAR (Structural Vector Autoregression)",
+    "DSGE (Dynamic Stochastic General Equilibrium) modeling",
+    "Two-sector New Keynesian DSGE model",
+    "Mixed restrictions identification strategy",
+    "Empirical data analysis",
+    "Model calibration",
+    "Time series analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Infrastructure",
+    "Manufacturing",
+    "Investment services",
+    "Construction"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

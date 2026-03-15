@@ -1,0 +1,53 @@
+{
+  "title": "Regulating strategic expense relabelling in R&D tax incentives by",
+  "authors": [
+    "Xiaoyong Dai"
+  ],
+  "keywords": [
+    "Mandatory information disclosure",
+    "Expense relabelling",
+    "R&D tax incentives"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Quasi-experimental design",
+    "Graphic evidence analysis",
+    "Placebo tests",
+    "Parallel trend analysis",
+    "Heterogeneity analysis"
+  ],
+  "industries": [
+    "High-tech industries",
+    "Research & Development (R&D)",
+    "Technology enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

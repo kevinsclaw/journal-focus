@@ -1,0 +1,76 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Artificial Intelligence",
+    "Innovation",
+    "State-owned enterprises",
+    "Equity structure"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Fixed Effects Regression",
+    "Instrumental Variables (IV)",
+    "Propensity Score Matching (PSM)",
+    "Heckman Two-Stage Regression",
+    "Textual Analysis",
+    "Entropy Index Analysis",
+    "Panel Data Analysis"
+  ],
+  "industries": [
+    "High-Tech",
+    "State-Owned Enterprises",
+    "Digital Technology",
+    "Financial Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "G32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

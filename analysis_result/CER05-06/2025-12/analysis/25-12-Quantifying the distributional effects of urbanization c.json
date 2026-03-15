@@ -1,0 +1,82 @@
+{
+  "title": "Quantifying the distributional effects of urbanization and",
+  "authors": [
+    "Wei Tang"
+  ],
+  "keywords": [
+    "Urbanization",
+    "Migration",
+    "Welfare accounting",
+    "Spatial equilibrium"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Spatial equilibrium model",
+    "Nested-CES production function",
+    "Two-stage least squares (2SLS)",
+    "Instrumental variables (IV)",
+    "Nested nonlinear least squares",
+    "Card and Lemieux estimation technique",
+    "Bartik-type analysis",
+    "Quantitative welfare analysis"
+  ],
+  "industries": [
+    "Real estate/Housing",
+    "Agriculture",
+    "Urban services",
+    "Construction"
+  ],
+  "jel_codes": [
+    {
+      "code": "J31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J61",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

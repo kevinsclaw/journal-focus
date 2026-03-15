@@ -1,0 +1,54 @@
+{
+  "title": "China Economic Review 90 (2025) 102364",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Corporate carbon reduction",
+    "Energy management",
+    "Carbon productivity",
+    "Regression discontinuity design",
+    "China employer-employee survey"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Regression Discontinuity Design (RDD)",
+    "Robustness checks",
+    "Placebo tests",
+    "Kernel functions",
+    "Quasi-natural experiment"
+  ],
+  "industries": [
+    "Energy",
+    "Manufacturing",
+    "Industrial production"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

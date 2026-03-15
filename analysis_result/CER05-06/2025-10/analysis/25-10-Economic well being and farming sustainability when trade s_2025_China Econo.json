@@ -1,0 +1,70 @@
+{
+  "title": "Economic well-being and farming sustainability when trade",
+  "authors": [
+    "Dongmin Hu"
+  ],
+  "keywords": [
+    "Trade shock",
+    "Agricultural sustainability",
+    "Household income",
+    "Labor allocation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Fixed Point Survey data analysis",
+    "Two-step trade shock construction methodology",
+    "Causal relationship identification",
+    "Cross-city migration pattern analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Manufacturing",
+    "Construction",
+    "Services",
+    "International trade"
+  ],
+  "jel_codes": [
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q20",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

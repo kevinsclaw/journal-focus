@@ -1,0 +1,75 @@
+{
+  "title": "·习近平经济思想研究专题·",
+  "authors": [
+    "新质生产",
+    "力若干基",
+    "本理论问",
+    "题的"
+  ],
+  "keywords": [
+    "新质生产力",
+    "全要素生产率",
+    "新型生产关系",
+    "经济结构",
+    "政府与市场"
+  ],
+  "abstract": "习近平总书记关于新质生产力的论述，从理论和实践的统一上深入阐释 了什么是新质生产力、如何发展新质生产力，论述了发展新质生产力是推动经济高质量 发展的内在要求和重要着力点，特别是从马克思主义唯物史观出发，分析了新质生产力 与新型生产关系的内在联系，具有极其重要的理论和实践意义。本文围绕新质生产力发 展与创新逻辑、新质生产力发展与全要素生产率、新质生产力发展与经济发展的质态、新 质生产力发展与基本经济制度、新质生产力发展与资源配置机制等问题进行了政治经济 学考察。",
+  "language": "zh",
+  "methods": [
+    "政治经济学理论分析",
+    "历史唯物主义分析",
+    "马克思主义经济学理论分析"
+  ],
+  "industries": [
+    "宏观经济",
+    "生产制造业"
+  ],
+  "cssci_categories": [
+    "管理学",
+    "政治学",
+    "经济学"
+  ],
+  "funding": [],
+  "jel_codes": [
+    {
+      "code": "L60",
+      "confidence": 0.43,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "B20",
+      "confidence": 0.33,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "P20",
+      "confidence": 0.33,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "E00",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "E10",
+      "confidence": 0.3,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "O30",
+      "confidence": 0.25,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "O40",
+      "confidence": 0.25,
+      "source": "inferred_cn"
+    },
+    {
+      "code": "D24",
+      "confidence": 0.17,
+      "source": "inferred_cn"
+    }
+  ]
+}

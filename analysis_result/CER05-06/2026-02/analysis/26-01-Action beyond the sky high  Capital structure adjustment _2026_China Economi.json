@@ -1,0 +1,51 @@
+{
+  "title": "Action beyond the sky high: Capital structure adjustment speed of",
+  "authors": [
+    "Fei Guo"
+  ],
+  "keywords": [
+    "Space competition",
+    "Market economy",
+    "Commercialization",
+    "Capital structure adjustment",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Quasi-natural experiment",
+    "Capital structure adjustment model"
+  ],
+  "industries": [
+    "Space/Aerospace",
+    "Commercial space services",
+    "Financial services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "A blessing and a curse: Identifying how knowledge complexity",
+  "authors": [
+    "Xionghe Qin"
+  ],
+  "keywords": [
+    "Knowledge complexity",
+    "Regional innovation efficiency",
+    "Spatial externalities",
+    "Spatial Durbin model",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Spatial Durbin Model",
+    "Panel Data Analysis",
+    "Spatial Econometrics",
+    "Nonlinear Effect Analysis",
+    "Moderating Effect Analysis",
+    "Mediating Effect Analysis"
+  ],
+  "industries": [
+    "Research & Development",
+    "Technology Transfer",
+    "Manufacturing",
+    "Education (Universities)",
+    "Scientific Research Institutions"
+  ],
+  "jel_codes": [
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

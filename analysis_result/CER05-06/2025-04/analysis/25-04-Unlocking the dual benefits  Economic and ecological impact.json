@@ -1,0 +1,75 @@
+{
+  "title": "China Economic Review 90 (2025) 102365",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Protected area",
+    "National Key Ecological Function Areas",
+    "Economic growth",
+    "Ecological conservation",
+    "Sustainability"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered Difference-in-Differences (DID)",
+    "Mechanism analysis",
+    "Multi-level dataset analysis",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Tourism (Eco-tourism)",
+    "Agriculture",
+    "Mining",
+    "Environmental conservation",
+    "Public administration"
+  ],
+  "jel_codes": [
+    {
+      "code": "B16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q01",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q56",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q57",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

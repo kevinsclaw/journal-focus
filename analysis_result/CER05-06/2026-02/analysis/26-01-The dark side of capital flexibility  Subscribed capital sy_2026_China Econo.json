@@ -1,0 +1,53 @@
+{
+  "title": "The dark side of capital flexibility: Subscribed capital system",
+  "authors": [
+    "Weidi Chai"
+  ],
+  "keywords": [
+    "Subscribed capital system",
+    "Creditor interests",
+    "Debt default risk",
+    "Corporate governance"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Empirical analysis",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Corporate Finance",
+    "State-owned enterprises",
+    "Private enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Top-up design",
+    "Health care cost",
+    "Cardiac stent",
+    "Moral hazard"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Natural experiment analysis",
+    "Difference-in-difference analysis",
+    "Administrative data analysis",
+    "Treatment effect analysis",
+    "Cost-effectiveness analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Medical devices",
+    "Health insurance",
+    "Hospital services",
+    "Pharmaceutical"
+  ],
+  "jel_codes": [
+    {
+      "code": "G22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

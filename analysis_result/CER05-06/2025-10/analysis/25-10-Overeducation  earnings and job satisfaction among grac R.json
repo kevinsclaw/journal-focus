@@ -1,0 +1,64 @@
+{
+  "title": "Overeducation, earnings and job satisfaction among graduates",
+  "authors": [
+    "Melanie Jones"
+  ],
+  "keywords": [
+    "Overeducation",
+    "China",
+    "Earnings",
+    "Job satisfaction",
+    "Cognitive and non-cognitive skills",
+    "Unobserved heterogeneity"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Fixed Effects regression",
+    "Longitudinal data analysis",
+    "Multiple measures comparison",
+    "Cross-sectional analysis",
+    "Descriptive statistics"
+  ],
+  "industries": [
+    "Education",
+    "Labor market/Employment"
+  ],
+  "jel_codes": [
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

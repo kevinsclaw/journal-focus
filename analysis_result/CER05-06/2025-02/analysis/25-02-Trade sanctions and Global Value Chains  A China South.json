@@ -1,0 +1,67 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Trade Sanctions",
+    "Global Value Chains",
+    "Revealed Comparative Advantage",
+    "Gravity Model",
+    "China",
+    "South-Africa"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Gravity Model",
+    "Revealed Comparative Advantage (RCA) Analysis",
+    "Global Value Chains (GVCs) Analysis",
+    "Evolutionary Model",
+    "Comparative Analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Textiles",
+    "Garments",
+    "International Trade",
+    "Commodities"
+  ],
+  "jel_codes": [
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F60",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

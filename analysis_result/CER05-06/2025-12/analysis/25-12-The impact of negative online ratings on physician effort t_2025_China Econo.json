@@ -1,0 +1,75 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Online rating",
+    "Physician effort",
+    "Physician–patient communication",
+    "Online healthcare platform",
+    "Online consultation"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Administrative Data Analysis",
+    "Sentiment Analysis",
+    "Text Analysis",
+    "Quantitative Analysis"
+  ],
+  "industries": [
+    "Healthcare",
+    "Digital Healthcare/Telemedicine",
+    "Online Healthcare Platforms",
+    "Public Healthcare"
+  ],
+  "jel_codes": [
+    {
+      "code": "I11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I19",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

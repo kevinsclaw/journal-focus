@@ -1,0 +1,55 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "FDI liberalization",
+    "Reallocation",
+    "State-owned enterprises",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Policy experiment analysis",
+    "Aggregate productivity growth (APG) decomposition",
+    "Firm-level analysis",
+    "Pre-post reform comparison",
+    "MRPK (Marginal Revenue Products of Capital) analysis"
+  ],
+  "industries": [
+    "State-owned enterprises (SOEs)",
+    "Manufacturing",
+    "Finance",
+    "Public administration",
+    "Investment services"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

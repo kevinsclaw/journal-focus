@@ -1,0 +1,51 @@
+{
+  "title": "The impact of agricultural OFDI network status on home",
+  "authors": [
+    "Lihua Dai"
+  ],
+  "keywords": [
+    "Agricultural foreign direct investment",
+    "Food security",
+    "Social network analysis"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Social Network Analysis (SNA)",
+    "Empirical analysis",
+    "Heterogeneity analysis",
+    "Mechanism testing"
+  ],
+  "industries": [
+    "Agriculture",
+    "Agricultural Finance",
+    "Food Production"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

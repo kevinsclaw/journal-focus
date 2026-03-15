@@ -1,0 +1,63 @@
+{
+  "title": "Do policies reshape attitudes? Evidence from maternity leave",
+  "authors": [
+    "Chen Huang"
+  ],
+  "keywords": [
+    "Maternity leave",
+    "Gender role attitude",
+    "Labor market",
+    "Time use",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DD)",
+    "Composite index construction",
+    "Heterogeneity analysis",
+    "Survey data analysis"
+  ],
+  "industries": [
+    "Labor market",
+    "Public sector",
+    "Healthcare"
+  ],
+  "jel_codes": [
+    {
+      "code": "J16",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J83",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

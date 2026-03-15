@@ -1,0 +1,49 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Renminbi",
+    "Counter-cyclical factor",
+    "Realized volatility",
+    "HAR-CJ model"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "HAR-CJ model",
+    "Heterogeneous Autoregressive (HAR) analysis",
+    "Volatility decomposition",
+    "Jump component analysis",
+    "Semi-variance analysis",
+    "Time series analysis"
+  ],
+  "industries": [
+    "Foreign Exchange",
+    "Banking",
+    "Financial Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "F31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

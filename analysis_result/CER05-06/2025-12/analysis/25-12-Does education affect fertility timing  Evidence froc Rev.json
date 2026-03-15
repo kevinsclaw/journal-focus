@@ -1,0 +1,63 @@
+{
+  "title": "Does education affect fertility timing? Evidence from Taiwan",
+  "authors": [
+    "Yichen Shen"
+  ],
+  "keywords": [
+    "Education",
+    "Fertility timing",
+    "Compulsory schooling laws",
+    "Fuzzy regression discontinuity approach",
+    "Taiwan"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Fuzzy Regression Discontinuity",
+    "Instrumental Variables",
+    "Natural Experiment Analysis",
+    "Causal Analysis"
+  ],
+  "industries": [
+    "Education",
+    "Healthcare",
+    "Social Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "I2",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

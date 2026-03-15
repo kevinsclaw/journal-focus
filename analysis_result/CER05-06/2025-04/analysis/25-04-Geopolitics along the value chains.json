@@ -1,0 +1,60 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Geopolitics",
+    "Global value chains",
+    "Trade effects",
+    "Welfare effects"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Structural economic modeling",
+    "Counterfactual analysis",
+    "Input-Output analysis",
+    "Elasticity estimation",
+    "Index development (voting similarity indices)",
+    "General equilibrium framework"
+  ],
+  "industries": [
+    "International trade",
+    "Manufacturing (intermediate goods)",
+    "Waterway transportation",
+    "Final consumer goods"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F2",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F5",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "E21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

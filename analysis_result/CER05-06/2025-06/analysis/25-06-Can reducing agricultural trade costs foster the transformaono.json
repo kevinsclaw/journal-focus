@@ -1,0 +1,77 @@
+{
+  "title": "Can reducing agricultural trade costs foster the transformation of",
+  "authors": [
+    "Xiaolu Liu"
+  ],
+  "keywords": [
+    "Trade costs",
+    "Dietary quality",
+    "General equilibrium model",
+    "Domestic circulation",
+    "Agrifood system"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "CGE (Computable General Equilibrium) model",
+    "Household survey data analysis",
+    "Gravity model",
+    "Price index method",
+    "General equilibrium trade model",
+    "Novy's (2013) model"
+  ],
+  "industries": [
+    "Agriculture",
+    "Food & Beverage",
+    "Transportation & Logistics",
+    "Cold Chain Logistics",
+    "Infrastructure (Railways & Highways)"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "N7",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F17",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C68",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

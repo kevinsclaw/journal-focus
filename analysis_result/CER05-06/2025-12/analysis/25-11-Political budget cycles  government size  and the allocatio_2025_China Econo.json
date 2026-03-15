@@ -1,0 +1,68 @@
+{
+  "title": "Political budget cycles, government size, and the allocation of",
+  "authors": [
+    "Jie Xiao"
+  ],
+  "keywords": [
+    "Political budget cycles",
+    "Prefecture-level city",
+    "Fiscal spending decomposition",
+    "Promotion incentive",
+    "Multi-layer government hierarchy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Cross-sectional analysis",
+    "Time series analysis",
+    "Statistical regression",
+    "Heterogeneity analysis",
+    "Fiscal spending decomposition"
+  ],
+  "industries": [
+    "Public Administration",
+    "Infrastructure/Construction",
+    "Education",
+    "Healthcare",
+    "Real Estate/Land Development",
+    "Public Security"
+  ],
+  "jel_codes": [
+    {
+      "code": "R5",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H3",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H7",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

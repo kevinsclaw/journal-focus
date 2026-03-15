@@ -1,0 +1,54 @@
+{
+  "title": "The green promise of digital finance: Exploring its effects and",
+  "authors": [
+    "Xu Dong"
+  ],
+  "keywords": [
+    "Digital finance",
+    "Carbon reduction",
+    "Land concessions",
+    "Fiscal autonomy",
+    "Synergistic effect"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Mechanism analysis",
+    "Heterogeneity analysis"
+  ],
+  "industries": [
+    "Finance",
+    "Digital Finance/Fintech",
+    "Banking",
+    "Renewable Energy",
+    "Natural Gas"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

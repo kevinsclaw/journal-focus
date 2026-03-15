@@ -1,0 +1,55 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Large language models",
+    "Chinese labor market",
+    "Occupational exposure",
+    "Industry analysis",
+    "AI learning theory"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Language model analysis (GPT-4, InternLM, GLM)",
+    "Expert annotation analysis",
+    "Occupational exposure scoring",
+    "Industry-level aggregation analysis",
+    "Entropy-based information theory",
+    "Task-based theoretical framework",
+    "Correlation analysis",
+    "Vacancy index analysis"
+  ],
+  "industries": [
+    "Education",
+    "Healthcare",
+    "Manufacturing",
+    "Agriculture",
+    "Mining",
+    "Construction"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Safety regulations and firm productivity",
+  "authors": [
+    "Xiaowei Chen"
+  ],
+  "keywords": [
+    "Industrial safety",
+    "Safety regulation",
+    "Total factor productivity",
+    "Firm performance",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Differences-in-Differences (DID)",
+    "Quasi-natural experiment",
+    "Total Factor Productivity (TFP) analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Coal mining",
+    "Industrial production",
+    "Heavy industry"
+  ],
+  "jel_codes": [
+    {
+      "code": "C33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D24",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J28",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

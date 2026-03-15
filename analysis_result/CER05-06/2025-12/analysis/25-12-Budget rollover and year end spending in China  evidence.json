@@ -1,0 +1,41 @@
+{
+  "title": "Budget rollover and year-end spending in China: evidence from",
+  "authors": [
+    "Yuchen Guo"
+  ],
+  "keywords": [
+    "Public procurement",
+    "Fiscal fund rollover",
+    "Year-end spending surges",
+    "Contract quality",
+    "Hierarchies"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-difference (DID)",
+    "Triple difference model",
+    "Semi-supervised Named Entity Recognition algorithm",
+    "Natural experiment analysis",
+    "Text analysis"
+  ],
+  "industries": [
+    "Public procurement",
+    "Construction",
+    "Government services",
+    "Healthcare",
+    "Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

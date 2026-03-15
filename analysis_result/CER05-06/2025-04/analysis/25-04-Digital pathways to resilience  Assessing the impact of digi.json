@@ -1,0 +1,54 @@
+{
+  "title": "Digital pathways to resilience: Assessing the impact of",
+  "authors": [
+    "Yuke Luo"
+  ],
+  "keywords": [
+    "Agricultural production",
+    "Digitalization",
+    "Resilience",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Probabilistic framework",
+    "Mechanism analysis",
+    "County-level data analysis",
+    "Nonlinear relationship modeling"
+  ],
+  "industries": [
+    "Agriculture",
+    "Digital technology",
+    "Agricultural technology",
+    "Digital infrastructure"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R11",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

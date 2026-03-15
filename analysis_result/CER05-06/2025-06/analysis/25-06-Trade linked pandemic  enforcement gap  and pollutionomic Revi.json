@@ -1,0 +1,82 @@
+{
+  "title": "Trade-linked pandemic, enforcement gap, and pollution☆",
+  "authors": [
+    "Huanhuan Wang"
+  ],
+  "keywords": [
+    "COVID-19 pandemic",
+    "Enforcement gap",
+    "Trade linkage",
+    "Environment",
+    "Multi-tasking agents"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Natural experiment",
+    "Bartik instrumental variables",
+    "Cross-sectional analysis",
+    "Empirical analysis",
+    "Satellite imaging data analysis",
+    "Panel data analysis",
+    "Robustness checks"
+  ],
+  "industries": [
+    "Manufacturing",
+    "International trade",
+    "Medical supplies",
+    "Environmental services"
+  ],
+  "jel_codes": [
+    {
+      "code": "O44",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H70",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Spillover effects of fertility on married women’s employment:",
+  "authors": [
+    "Chang Hong Li"
+  ],
+  "keywords": [
+    "Spillover effect",
+    "Fertility",
+    "Employment",
+    "Selective two-child policy"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Instrumental Variables (IV)",
+    "Quasi-natural experiment",
+    "Census data analysis",
+    "Regression analysis",
+    "Sensitivity testing"
+  ],
+  "industries": [
+    "Childcare",
+    "Healthcare",
+    "Domestic services",
+    "Education",
+    "Labor market services"
+  ],
+  "jel_codes": [
+    {
+      "code": "J13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

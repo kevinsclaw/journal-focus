@@ -1,0 +1,68 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Inequality",
+    "Growth",
+    "Bayesian-VAR",
+    "China",
+    "Sign-restriction"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Bayesian structural vector autoregression (Bayesian-SVAR)",
+    "Sign-restriction analysis",
+    "Time series analysis",
+    "Shock analysis",
+    "Elasticity estimation"
+  ],
+  "industries": [
+    "Economy-wide/Macroeconomic",
+    "Education"
+  ],
+  "jel_codes": [
+    {
+      "code": "C32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "C33",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D63",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

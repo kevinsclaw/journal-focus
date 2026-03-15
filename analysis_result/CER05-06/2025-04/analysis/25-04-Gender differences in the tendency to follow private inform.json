@@ -1,0 +1,51 @@
+{
+  "title": "Research article",
+  "authors": [
+    "Zhaomin Li"
+  ],
+  "keywords": [
+    "Gender",
+    "Information cascades",
+    "Overconfidence"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Laboratory Experiment",
+    "Social Learning Game",
+    "Eye-tracking",
+    "Meta-analysis",
+    "Behavioral Economics Game Theory"
+  ],
+  "industries": [
+    "Finance",
+    "Stock Trading"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J16",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

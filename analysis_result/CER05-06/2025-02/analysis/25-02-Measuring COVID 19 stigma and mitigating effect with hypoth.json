@@ -1,0 +1,56 @@
+{
+  "title": "Measuring COVID-19 stigma and mitigating effect with",
+  "authors": [
+    "Na Hao"
+  ],
+  "keywords": [
+    "Stigma",
+    "COVID-19",
+    "BDM auction experiment",
+    "Non-hypothetical experiment",
+    "Willingness to pay (WTP)"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "BDM (Becker-DeGroot-Marschak) auction experiments",
+    "Hypothetical experiments",
+    "Non-hypothetical incentive-compatible experiments",
+    "Willingness to pay (WTP) analysis",
+    "Contingent valuation"
+  ],
+  "industries": [
+    "Food & Beverage",
+    "Agriculture",
+    "Healthcare",
+    "Consumer Goods",
+    "Retail"
+  ],
+  "jel_codes": [
+    {
+      "code": "I12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

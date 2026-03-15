@@ -1,0 +1,52 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Environmental regulation",
+    "Resource misallocation",
+    "Wedge accounting"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Structural accounting framework",
+    "Wedge accounting",
+    "Misallocation accounting framework (Hsieh and Klenow 2009)",
+    "Counterfactual analysis",
+    "Data merging/integration"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial firms",
+    "Environmental/Pollution control"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Anti-dumping",
+    "Price adjustment",
+    "Firm ownership",
+    "Aluminum",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DD)",
+    "Continuous treatment DD",
+    "Natural experiment analysis"
+  ],
+  "industries": [
+    "Aluminum manufacturing",
+    "Construction",
+    "Automotive",
+    "Aerospace",
+    "Renewable energy",
+    "Transportation",
+    "Metal production"
+  ],
+  "jel_codes": [
+    {
+      "code": "D22",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

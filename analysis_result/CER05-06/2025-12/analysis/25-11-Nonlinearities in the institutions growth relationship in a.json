@@ -1,0 +1,75 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Chinese economy",
+    "Economic growth and development",
+    "Institutional quality",
+    "Nonlinearities",
+    "Night-time lights"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Dynamic panel data analysis",
+    "System GMM estimation",
+    "2SLS estimation",
+    "Fixed effects panel estimation",
+    "Cross-sectional analysis",
+    "Nonlinear regression",
+    "Satellite night-time lights analysis"
+  ],
+  "industries": [
+    "Regional economic development",
+    "Public institutions"
+  ],
+  "jel_codes": [
+    {
+      "code": "O11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O43",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O53",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R11",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

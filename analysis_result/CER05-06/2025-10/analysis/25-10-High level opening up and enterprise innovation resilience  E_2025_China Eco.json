@@ -1,0 +1,51 @@
+{
+  "title": "High-level opening-up and enterprise innovation resilience:",
+  "authors": [
+    "Leilei Zhang"
+  ],
+  "keywords": [
+    "High-level opening-up",
+    "Belt and road initiative",
+    "Enterprise innovation resilience"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Motivation-Opportunity-Ability (MOA) model",
+    "Quasi-natural experiment"
+  ],
+  "industries": [
+    "Manufacturing",
+    "International Trade",
+    "Supply Chain",
+    "State-Owned Enterprises"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

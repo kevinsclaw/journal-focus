@@ -1,0 +1,71 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "FinTech",
+    "Consumption resilience",
+    "Digital wealth management",
+    "Borrowing",
+    "COVID-19"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Empirical analysis with micro-level data",
+    "Two-period theoretical model",
+    "Random sampling",
+    "Natural experiment (using COVID-19 as uncertainty shock)",
+    "Portfolio analysis"
+  ],
+  "industries": [
+    "FinTech",
+    "Digital Banking",
+    "Wealth Management",
+    "Digital Payments",
+    "Peer-to-peer Lending"
+  ],
+  "jel_codes": [
+    {
+      "code": "D12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "G51",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Ownership concentration and independent director effectiveness:",
+  "authors": [
+    "Yanqiao Zheng"
+  ],
+  "keywords": [
+    "New company law",
+    "Ownership concentration",
+    "Independent director effectiveness",
+    "Dissent",
+    "Regulatory letter"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variable (IV) analysis",
+    "Robustness checks",
+    "Heterogeneity analysis",
+    "Herfindahl index calculation",
+    "Statistical regression analysis"
+  ],
+  "industries": [
+    "Real Estate",
+    "Information Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "G32",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

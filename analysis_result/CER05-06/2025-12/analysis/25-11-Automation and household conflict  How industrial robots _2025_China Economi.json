@@ -1,0 +1,66 @@
+{
+  "title": "Automation and household conflict: How industrial robots reduce",
+  "authors": [
+    "Weibing Li",
+    "Mingyang Li"
+  ],
+  "keywords": [
+    "Industrial robot",
+    "Domestic violence risk",
+    "Household bargaining theory",
+    "Gender wage"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Bartik Instrumental Variables approach",
+    "Empirical modeling",
+    "Household bargaining theory",
+    "Survey analysis",
+    "Court document analysis",
+    "Mechanism analysis",
+    "Robustness checks"
+  ],
+  "industries": [
+    "Manufacturing (Industrial Robotics)",
+    "Automation/Robotics",
+    "Legal services"
+  ],
+  "jel_codes": [
+    {
+      "code": "J12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J3",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L6",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J16",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

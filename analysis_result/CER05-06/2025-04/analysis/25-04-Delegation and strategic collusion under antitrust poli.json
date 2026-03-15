@@ -1,0 +1,67 @@
+{
+  "title": "China Economic Review 90 (2025) 102361",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Delegation",
+    "Collusion",
+    "Cartel",
+    "Antitrust"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Laboratory Experiment",
+    "Game Theory",
+    "Cournot Duopoly Model",
+    "2x2 Experimental Design",
+    "FJSV Delegation Game Model"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Industrial Organization"
+  ],
+  "jel_codes": [
+    {
+      "code": "C9",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L2",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L4",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L44",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

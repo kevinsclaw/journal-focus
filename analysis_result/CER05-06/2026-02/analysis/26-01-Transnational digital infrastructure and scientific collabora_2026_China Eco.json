@@ -1,0 +1,56 @@
+{
+  "title": "Transnational digital infrastructure and scientific collaboration:",
+  "authors": [
+    "Han Li"
+  ],
+  "keywords": [
+    "Knowledge diffusion",
+    "Information and communication technologies",
+    "Scientific collaboration",
+    "Digital infrastructure"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Quasi-natural experiment",
+    "Empirical analysis",
+    "Causal analysis",
+    "Data mining",
+    "Citation analysis",
+    "Comparative analysis"
+  ],
+  "industries": [
+    "Telecommunications",
+    "Education",
+    "Information Technology",
+    "Research & Development",
+    "Digital Infrastructure"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

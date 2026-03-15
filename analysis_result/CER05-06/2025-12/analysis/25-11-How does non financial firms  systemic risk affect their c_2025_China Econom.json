@@ -1,0 +1,55 @@
+{
+  "title": "How does non-financial firms’ systemic risk affect their credit",
+  "authors": [],
+  "keywords": [
+    "Systemic risk",
+    "Credit constraint",
+    "Information asymmetry",
+    "Financial distress",
+    "Risk spillover",
+    "JEL classification (G32, G01, G14)"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Marginal Expected Shortfall (MES)",
+    "Delta CoVaR",
+    "Value-at-Risk (VaR)",
+    "Panel Data Analysis",
+    "Time Series Analysis"
+  ],
+  "industries": [
+    "Banking",
+    "Insurance",
+    "Shadow Banking",
+    "Manufacturing",
+    "Non-Financial Corporate Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

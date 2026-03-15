@@ -1,0 +1,78 @@
+{
+  "title": "China Economic Review 91 (2025) 102372",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Foreign investment",
+    "Manufacturing employment",
+    "Rural poverty",
+    "Globalization"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Theoretical modeling",
+    "Instrumental Variables (IV)",
+    "Origin-destination province-pair analysis",
+    "Leave-out-push-pull technique",
+    "Natural experiment (using natural disasters as instruments)"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Agriculture",
+    "Foreign Direct Investment (FDI)"
+  ],
+  "jel_codes": [
+    {
+      "code": "F21",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F66",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J61",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O15",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

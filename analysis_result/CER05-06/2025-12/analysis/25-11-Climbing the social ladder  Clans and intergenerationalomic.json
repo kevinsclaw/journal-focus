@@ -1,0 +1,54 @@
+{
+  "title": "Climbing the social ladder: Clans and intergenerational mobility",
+  "authors": [
+    "Shuai Zhao",
+    "Linke Hou"
+  ],
+  "keywords": [
+    "Clans",
+    "Informal institution",
+    "Intergenerational transmission of education",
+    "Social ladder"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Instrumental Variables (IV)",
+    "Cross-sectional analysis",
+    "Statistical correlation analysis",
+    "Genealogical data analysis",
+    "Geographic distance modeling"
+  ],
+  "industries": [
+    "Education",
+    "Financial Services (informal lending)",
+    "Agriculture (historical context)"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J16",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

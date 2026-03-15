@@ -1,0 +1,56 @@
+{
+  "title": "How geographical indication products impact agricultural",
+  "authors": [
+    "Kaicheng Liao"
+  ],
+  "keywords": [
+    "Geographical indication products",
+    "Agricultural economic resilience",
+    "Theoretical mechanism",
+    "Moderating effect",
+    "Heterogeneity"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Moderating effect analysis",
+    "Heterogeneity analysis",
+    "Longitudinal study (1996-2022)",
+    "Regional comparative analysis"
+  ],
+  "industries": [
+    "Agriculture",
+    "Food production",
+    "Tourism",
+    "Transportation",
+    "Food processing"
+  ],
+  "jel_codes": [
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "R1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

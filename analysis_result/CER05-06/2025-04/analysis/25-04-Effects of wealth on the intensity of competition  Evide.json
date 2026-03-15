@@ -1,0 +1,52 @@
+{
+  "title": "China Economic Review 90 (2025) 102352",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Wealth growth",
+    "Wealth disparity",
+    "Competitive behavior"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Lab Experiment",
+    "Between-group Design",
+    "Tullock Competition Model",
+    "Game Theory",
+    "Behavioral Economics"
+  ],
+  "industries": [
+    "Education",
+    "R&D/Innovation",
+    "Politics/Public Policy"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

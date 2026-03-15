@@ -1,0 +1,68 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Environmental regulation",
+    "Crime",
+    "Public safety",
+    "Job displacement"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-Differences (DID)",
+    "Synthetic Difference-in-Differences (SDID)",
+    "Seemingly Unrelated Regressions (SUR)",
+    "Text Mining",
+    "Panel Data Analysis"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Public Safety/Law Enforcement",
+    "Environmental Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "H4",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "K4",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "R1",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q5",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

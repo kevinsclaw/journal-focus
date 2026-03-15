@@ -1,0 +1,81 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Processing trade",
+    "Duty exemptions",
+    "Scale economies",
+    "Market size effect"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "General Equilibrium Modeling",
+    "Quantitative Trade Model",
+    "Eaton-Kortum-Kramarz (EKK) Model Extension",
+    "Counterfactual Analysis",
+    "Model Calibration",
+    "Theoretical Framework Development"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Processing Trade",
+    "Export Assembly",
+    "Global Value Chains",
+    "International Trade"
+  ],
+  "jel_codes": [
+    {
+      "code": "F10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F12",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F17",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

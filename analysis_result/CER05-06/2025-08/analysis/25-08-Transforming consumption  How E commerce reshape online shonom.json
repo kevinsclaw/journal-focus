@@ -1,0 +1,54 @@
+{
+  "title": "Transforming consumption: How E-commerce reshape online",
+  "authors": [
+    "Xinyu Liu"
+  ],
+  "keywords": [
+    "E-commerce",
+    "Household online shopping",
+    "Consumption structure",
+    "Staggered difference-in-differences"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Staggered difference-in-differences",
+    "Heterogeneity analysis",
+    "Robustness checks",
+    "Mechanism analysis",
+    "Geospatial analysis using POI data"
+  ],
+  "industries": [
+    "E-commerce",
+    "Retail",
+    "Logistics",
+    "Agriculture"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D24",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

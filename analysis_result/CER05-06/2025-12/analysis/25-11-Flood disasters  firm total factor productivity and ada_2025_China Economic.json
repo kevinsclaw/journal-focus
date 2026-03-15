@@ -1,0 +1,60 @@
+{
+  "title": "Flood disasters, firm total factor productivity and",
+  "authors": [
+    "Peiting Dong"
+  ],
+  "keywords": [
+    "Flood disasters",
+    "Total factor productivity (TFP)",
+    "Entry and exit",
+    "Government intervention",
+    "Adaptation behaviors"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Geographic data matching",
+    "Panel data analysis",
+    "Heterogeneity analysis",
+    "Mechanism analysis",
+    "Empirical analysis using firm-level data",
+    "Impact evaluation"
+  ],
+  "industries": [
+    "Manufacturing",
+    "Automobiles",
+    "Transport equipment",
+    "Machinery",
+    "Paper and printing",
+    "Food and beverages",
+    "Tobacco",
+    "Computers and electronics"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q54",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

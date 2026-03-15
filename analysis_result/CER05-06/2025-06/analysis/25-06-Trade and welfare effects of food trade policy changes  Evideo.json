@@ -1,0 +1,50 @@
+{
+  "title": "Trade and welfare effects of food trade policy changes: Evidence",
+  "authors": [
+    "Jijun Yang"
+  ],
+  "keywords": [
+    "Anti-dumping and countervailing measures",
+    "Food security",
+    "Food imports",
+    "Trade effects",
+    "Welfare effects"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Partial equilibrium model",
+    "Computable equilibrium model",
+    "Commercial Policy Analysis System (COMPAS) model",
+    "Armington framework"
+  ],
+  "industries": [
+    "Agriculture",
+    "Food trade",
+    "Barley farming",
+    "Agricultural commodities trading"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "G21",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

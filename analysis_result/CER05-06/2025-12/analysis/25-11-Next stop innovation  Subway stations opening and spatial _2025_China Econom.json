@@ -1,0 +1,55 @@
+{
+  "title": "Next stop innovation: Subway stations opening and spatial",
+  "authors": [
+    "Meng Shen"
+  ],
+  "keywords": [
+    "Innovation",
+    "Subway stations",
+    "High-tech enterprises",
+    "Accessibility",
+    "Agglomeration"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Event study analysis",
+    "Quasi-natural experiment",
+    "Time-varying DID"
+  ],
+  "industries": [
+    "Public Transportation",
+    "High-tech",
+    "Banking/Financial Services",
+    "Technology/Software (e.g. Baidu, ByteDance, DIDI)",
+    "Research & Development"
+  ],
+  "jel_codes": [
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "Q53",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

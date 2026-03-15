@@ -1,0 +1,49 @@
+{
+  "title": "China and the world economy: Pathways of resilience, innovation,",
+  "authors": [
+    "This Virtual Special Issue"
+  ],
+  "keywords": [],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Dynamic panel framework",
+    "Regime-switching models",
+    "Overlapping-generations model",
+    "Narrative Alignment Theory (NAT)",
+    "Night-time lights data analysis"
+  ],
+  "industries": [
+    "Information Technology",
+    "Financial Services",
+    "Clean Energy/Low-carbon Technology",
+    "Digital Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

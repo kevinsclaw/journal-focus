@@ -1,0 +1,77 @@
+{
+  "title": "The political legacy of disease control: Evidence from a polio",
+  "authors": [
+    "Xiuheng Shen"
+  ],
+  "keywords": [
+    "Disease control",
+    "Political trust",
+    "Polio vaccination campaign",
+    "Long-term effects",
+    "China"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Event study analysis",
+    "Bayesian analysis",
+    "Heterogeneous effects analysis",
+    "Parallel trends testing",
+    "Robustness checks",
+    "Mechanism analysis",
+    "Placebo tests"
+  ],
+  "industries": [
+    "Healthcare",
+    "Public Health",
+    "Government/Public Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "I18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "I31",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "N35",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "Z18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

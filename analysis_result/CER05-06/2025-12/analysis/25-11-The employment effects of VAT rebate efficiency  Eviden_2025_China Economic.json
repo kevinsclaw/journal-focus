@@ -1,0 +1,64 @@
+{
+  "title": "The employment effects of VAT rebate efficiency: Evidence from",
+  "authors": [
+    "Bing Lu"
+  ],
+  "keywords": [
+    "Small and medium-sized enterprises (SMEs)",
+    "VAT rebate efficiency",
+    "Labor employment",
+    "Local fiscal constraint"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "OLS Regression",
+    "Instrumental Variables (IV)",
+    "Panel Data Analysis",
+    "Firm-level Data Analysis",
+    "Empirical Analysis"
+  ],
+  "industries": [
+    "Small and Medium Enterprises (SMEs)",
+    "Export/International Trade",
+    "Manufacturing",
+    "Government/Public Sector"
+  ],
+  "jel_codes": [
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "H25",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O10",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

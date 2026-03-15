@@ -1,0 +1,52 @@
+{
+  "title": "Broadband internet and income inequality among the floating",
+  "authors": [
+    "Qingfeng Cao"
+  ],
+  "keywords": [
+    "Broadband internet"
+  ],
+  "abstract": ", cognitive tasks Professional and technical personnel, national and social administrators including officials in government agencies, party organizations, and leaders of enterprises and institutions. Non-routine manual tasks Personnel in the commercial and service sectors, including entrepreneurs, vendors, catering and household service workers, cleaning staff, security guards, decorators. Table 12 Test of the routine-biased technological progress theory. Explained variable ln(Between) ln(Withi...",
+  "language": "en",
+  "methods": [
+    "Difference-in-differences (DID)",
+    "Panel data analysis",
+    "Parallel trends test",
+    "Placebo test",
+    "Endogeneity test",
+    "Treatment effects heterogeneity analysis",
+    "Mechanism analysis"
+  ],
+  "industries": [
+    "Telecommunications",
+    "Broadband Internet",
+    "Information Technology"
+  ],
+  "jel_codes": [
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "J6",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

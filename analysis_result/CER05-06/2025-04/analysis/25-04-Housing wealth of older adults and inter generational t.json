@@ -1,0 +1,72 @@
+{
+  "title": "Housing wealth of older adults and inter-generational transfers",
+  "authors": [
+    "Jing Liu"
+  ],
+  "keywords": [
+    "Older adults",
+    "Housing value",
+    "Inter-generational transfer"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Individual Fixed Effects Model",
+    "Instrumental Variables (IV)",
+    "Heterogeneity Analysis",
+    "Panel Data Analysis",
+    "Longitudinal Study"
+  ],
+  "industries": [
+    "Real Estate/Housing",
+    "Healthcare",
+    "Financial Services"
+  ],
+  "jel_codes": [
+    {
+      "code": "D1",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "D64",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "J14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "O18",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I12",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O1",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

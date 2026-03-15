@@ -1,0 +1,65 @@
+{
+  "title": "Trade policy uncertainty and market diversification by",
+  "authors": [
+    "Zhiyuan Chen"
+  ],
+  "keywords": [
+    "Trade policy uncertainty",
+    "New market entry",
+    "Market diversification",
+    "Risk-averse firms",
+    "Risk hedging"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Dynamic trade model",
+    "Panel data analysis",
+    "Theoretical modeling with risk-averse firms",
+    "Empirical analysis",
+    "Parameterized modeling",
+    "Weighted average calculations"
+  ],
+  "industries": [
+    "International trade",
+    "Manufacturing",
+    "Export industry"
+  ],
+  "jel_codes": [
+    {
+      "code": "D81",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F13",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O3",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O31",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "O33",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

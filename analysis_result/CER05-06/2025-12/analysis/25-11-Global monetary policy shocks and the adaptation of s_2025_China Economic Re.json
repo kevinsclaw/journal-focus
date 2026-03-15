@@ -1,0 +1,65 @@
+{
+  "title": "Contents lists available at ScienceDirect",
+  "authors": [
+    "China Economic Review"
+  ],
+  "keywords": [
+    "Monetary policy",
+    "Supply chains",
+    "Disruption",
+    "Supplier switch"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Panel data analysis",
+    "Empirical analysis",
+    "Statistical analysis of trade networks",
+    "Firm-level data analysis",
+    "Cross-country comparison"
+  ],
+  "industries": [
+    "Shipping/Maritime",
+    "Manufacturing",
+    "International Trade",
+    "Banking/Financial Services",
+    "Shipbuilding"
+  ],
+  "jel_codes": [
+    {
+      "code": "E50",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F23",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "L14",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "D2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "L2",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": "US monetary policy spillovers, maturity mismatch and Chinese",
+  "authors": [
+    "Dongzhou Mei"
+  ],
+  "keywords": [
+    "US monetary policy",
+    "Asset allocation of financial intermediaries",
+    "Maturity mismatch",
+    "Term premium"
+  ],
+  "abstract": "",
+  "language": "en",
+  "methods": [
+    "Proxy Structural Vector Autoregressive (Proxy SVAR) model",
+    "Multi-sector open-economy DSGE model",
+    "Counterfactual analysis",
+    "Empirical analysis"
+  ],
+  "industries": [
+    "Banking/Financial Services",
+    "Corporate Finance",
+    "Investment Banking"
+  ],
+  "jel_codes": [
+    {
+      "code": "E52",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F34",
+      "confidence": 1.0,
+      "source": "paper"
+    },
+    {
+      "code": "F1",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "F14",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I2",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I21",
+      "confidence": 0.6,
+      "source": "inferred"
+    },
+    {
+      "code": "I23",
+      "confidence": 0.6,
+      "source": "inferred"
+    }
+  ]
+}
